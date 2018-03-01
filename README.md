@@ -1,2 +1,2 @@
 # FreeTubeApp.github.io
-Website for FreeTube
+The website for FreeTube.  Will be a stub until I can get around to making it.  Anyone else is welcome to make one if they have the time for it.
