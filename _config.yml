@@ -21,9 +21,8 @@
 title: FreeTube Docs
 email: freetubeapp@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Official Documents website for FreeTube, the Open Source YouTube client
+  for Windows, Mac, and Linux built around privacy.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  FreeTubeApp
@@ -34,6 +33,20 @@ aux_links:
     - "https://github.com/FreeTubeApp/FreeTube"
   "Donate":
     - "https://liberapay.com/FreeTube"
+
+footer_content: "Distributed under the <a href=\"https://github.com/FreeTubeApp/FreeTubeApp.github.io/blob/master/LICENSE\">MIT license.</a>"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/FreeTubeApp/FreeTubeApp.github.io" # the github URL for your repo
+gh_edit_branch: "master" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Build settings
 theme: just-the-docs
