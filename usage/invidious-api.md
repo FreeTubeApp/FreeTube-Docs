@@ -5,7 +5,7 @@ parent: Usage
 permalink: /usage/invidious-api/
 ---
 
-The Invidious API is an extractor built into the [Invidious](/about/invidious/) project that's used to obtain data from YouTube. FreeTube can connect to an Invidious instance and have it obtain data on it's behalf. Invidious handles all extraction logic and therefore provides a full experience of browsing YouTube.
+The Invidious API is an extractor built into the [Invidious](/about/invidious) project that's used to obtain data from YouTube. FreeTube can connect to an Invidious instance and have it obtain data on it's behalf. Invidious handles all extraction logic and therefore provides a full experience of browsing YouTube.
 
 Invidious extracts data from YouTube and does not use any official API.
 
@@ -29,4 +29,4 @@ The Invidious API is one method of obtaining data from YouTube. For another meth
 
 ## Fallback
 
-If you have the [Local API](/usage/local-api/) enabled as your default extractor, you can have FreeTube fallback to the Invidious API if the Local API fails by enabling fallback within your settings.
+If you have the [Local API](/usage/local-api) enabled as your default extractor, you can have FreeTube fallback to the Invidious API if the Local API fails by enabling fallback within your settings.

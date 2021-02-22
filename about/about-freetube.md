@@ -11,7 +11,7 @@ FreeTube is an Open Source desktop application for Windows / Mac / Linux. It all
 
 ## How Does it Work?
 
-FreeTube does not use the official YouTube API. Instead, it parses the information it needs from the YouTube website in a similar manner to youtube-dl. FreeTube has two different API engines that it can use to obtain information from YouTube. FreeTube has a built-in extractor (Dubbed the [Local API](/usage/local-api/)) or it can use the [API](/usage/invidious-api/) from the [Invidious Project](/about/invidious/).
+FreeTube does not use the official YouTube API. Instead, it parses the information it needs from the YouTube website in a similar manner to youtube-dl. FreeTube has two different API engines that it can use to otain information from YouTube. FreeTube has a built-in extractor (Dubbed the [Local API](/usage/local-api/)) or it can use the [API](/usage/invidious-api) from the [Invidious Project](/about/invidious).
 
 ## Feature List
 
@@ -30,8 +30,8 @@ FreeTube does not use the official YouTube API. Instead, it parses the informati
 
 [Download FreeTube](https://freetubeapp.io/#download)
 
-[Usage Guide](/usage/)
+[Usage Guide](/usage)
 
-[Community](/community/)
+[Community](/community)
 
-[FAQ](/faq/)
+[FAQ](/faq)

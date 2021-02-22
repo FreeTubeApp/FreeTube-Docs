@@ -16,7 +16,7 @@ Logo Design: [jbeguna04](https://github.com/jbeguna04)
 
 Invidious / Invidious API: [omarroth](https://github.com/omarroth)
 
-Local API: [Various Developers](/usage/local-api/)
+Local API: [Various Developers](/usage/local-api)
 
 [Other Contributors](https://github.com/FreeTubeApp/FreeTube/graphs/contributors)
 

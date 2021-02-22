@@ -9,7 +9,7 @@ FreeTube provides a basic feature that allows you to download videos. You can fi
 
 ## Types of Files
 
-In this list of files, you'll notice the quality level and the frame rate of the video. You'll also notice that a majority of these files is either `video only` or `audio only`. This is because of how YouTube structures their videos (Please see the [Video Formats](/usage/video-formats/) page for more information). If you'd like a video to also include audio, you'll have to download a file that does not include the `video only` or `audio only` suffix in the name.
+In this list of files, you'll notice the quality level and the frame rate of the video. You'll also notice that a majority of these files is either `video only` or `audio only`. This is because of how YouTube structures their videos (Please see the [Video Formats](/usage/video-formats) page for more information). If you'd like a video to also include audio, you'll have to download a file that does not include the `video only` or `audio only` suffix in the name.
 
 Typically located at the bottom of the list, you'll also notice that you can download the available captions for a video as well.
 

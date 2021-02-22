@@ -11,7 +11,7 @@ Invidious is an Open Source web project for browsing YouTube. The goals of Invid
 
 With this approach, Invidious allows multiple users to login and use one instance of Invidious. This allows users to mix their usage together while Invidious fetches the desired information, increasing the privacy of the individual since it's more difficult to identify that one person.
 
-Invidious also provides their own extractor, which includes a public [API](/usage/invidious-api/) that is open to other applications.
+Invidious also provides their own extractor, which includes a public [API](/usage/invidious-api) that is open to other applications.
 
 ## Relationship with FreeTube
 
@@ -21,7 +21,7 @@ FreeTube and Invidious were developed and released at around the same time. In t
 
 - Invidious is a website, where FreeTube is a desktop application (However FreeTube is also developed using web technologies)
 - Invidious uses a minimal UI, where FreeTube uses a design similar to YouTube
-- FreeTube (with it's [Local API](/usage/local-api/)) directly connects to YouTube, where Invidious acts as a middle man between YouTube and the user
+- FreeTube (with it's [Local API](/usage/local-api)) directly connects to YouTube, where Invidious acts as a middle man between YouTube and the user
 - Invidious user data is stored on the Invidious server, where FreeTube stores user data on the user's machine
 
 ## Useful Links

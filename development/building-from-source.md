@@ -5,7 +5,7 @@ parent: Development
 permalink: /development/building-from-source
 ---
 
-This article assumes that your development environment is setup. For instructions on how to do so, please see the [Getting Started](/development/getting-started/) page.
+This article assumes that your development environment is setup. For instructions on how to do so, please see the [Getting Started](/development/getting-started) page.
 
 ## Note for Linux Users
 

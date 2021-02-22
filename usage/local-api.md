@@ -42,4 +42,4 @@ The Local API is one method of obtaining data from YouTube. For another method o
 
 ## Fallback
 
-If you have the [Invidious API](/usage/invidious-api/) enabled as your default extractor, you can have FreeTube fallback to the Local API if the Invidious API fails by enabling fallback within your settings.
+If you have the [Invidious API](/usage/invidious-api) enabled as your default extractor, you can have FreeTube fallback to the Local API if the Invidious API fails by enabling fallback within your settings.
