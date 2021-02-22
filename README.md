@@ -7,7 +7,7 @@ for Windows, Mac, and Linux built around privacy. It is built using Jekyll and d
 
 **NOTE:** Setting up a local instance of the site is not required to make contributions. Simply making changes to the Markdown files is enough. Setting up a local instance is however helpful if you plan on adding new pages or settings.
 
-The setup the site yourself, you will need to have Ruby installed on your machine. Once installed, clone down the repository and run the following commands.
+To setup the site yourself, you will need to have Ruby installed on your machine. Once installed, clone down the repository and run the following commands.
 
 ```
 bundle install // Installs Dependencies
