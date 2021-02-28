@@ -29,6 +29,8 @@ github_username:  FreeTubeApp
 logo: "/images/logoColor.png"
 
 aux_links:
+  "FreeTube Website":
+    - "https://freetubeapp.io"
   "FreeTube on GitHub":
     - "https://github.com/FreeTubeApp/FreeTube"
   "Donate":
