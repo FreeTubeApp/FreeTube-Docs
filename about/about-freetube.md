@@ -30,6 +30,8 @@ FreeTube does not use the official YouTube API. Instead, it parses the informati
 
 [Download FreeTube](https://freetubeapp.io/#download)
 
+[FreeTube Blog](https://blog.freetubeapp.io/)
+
 [Usage Guide](/usage)
 
 [Community](/community)

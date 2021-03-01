@@ -59,4 +59,4 @@ For more information, check out the [Invidious API](/usage/invidious-api) page.
 
 ## Another Problem
 
-If you happen to see another problem with FreeTube, you may want to report an issue.
+If you happen to see another problem with FreeTube, consider [creating an issue](/community/creating-an-issue).

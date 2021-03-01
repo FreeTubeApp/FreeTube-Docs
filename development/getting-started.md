@@ -57,6 +57,12 @@ npm run lint-fix
 
 This command will also show any errors that the linter still finds and cannot fix.
 
+## Adding New Strings For Localization
+
+If you are adding a new string of text that needs to be available for translation, you will need to add it into the `/static/locales/en-US.yaml` file within the project. Please follow the same structure already established when adding new strings. Alternatively, add your string to a location that seems appropriate.
+
+You **DO NOT** need to add your strings to the other locale files. Our translation software will handle that for you.
+
 ## Useful Links and Information
 
 FreeTube is built using Electron and Vue.js, so knowing how these technologies work is beneficial to creating code. These links may be helpful to learning more about these.
