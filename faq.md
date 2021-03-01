@@ -22,6 +22,20 @@ We _can_ consider support for the Pinephone however, since it is also a Linux de
 ## Can I import my YouTube subscriptions over to FreeTube?
 Yes! You can head over to the [importing your YouTube subscriptions](/usage/importing-subscriptions) page to learn more.
 
+## Could You Please Implement X/Y/Z Feature?
+
+Probably. As long as it isn't to added new services or port to new platforms, we can consider adding a new feature (See above questions). Keep in mind that just because a feature is suggested doesn't mean it'll get worked on right away. We try to plan what we'll be working on well ahead of time to keep ourselves organized. If you'd like to see a certain feature prioritized, consider submitting a pull request.
+
+## I Found an Issue!
+
+If you've found a problem with FreeTube, please look through the [common issues](/usage/common-issues) first. If the issue is outside of those, consider [creating an issue](community/creating-an-issue) on GitHub.
+
+## How Can I Help Contribute to the Project?
+
+We are open to accepting help from anyone regardless of your skill set. The simplest way you can help is by [creating an issue](/community/creating-an-issue) or by helping add more documentation. If you know more than one language, we would love it if you helped with [translating to your native language](/community/translations).
+
+If you're a developer and would like to contribute code, please see our [Getting Started](/development/getting-started) guide to learn more.
+
 ## Electron is bad, please use something else.
 I understand the frustration that some of you have.  Electron has become overused and over relied on for a lot of projects.  This results in many projects being very resource heavy even for simple tasks.  I personally agree that more projects should put the effort into more native solutions.  I'll try to give my reasoning as to why I use Electron versus something else.
 

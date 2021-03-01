@@ -39,7 +39,7 @@ For more information, check out the [Video Formats](/usage/video-formats) page a
 
 If you're seeing this error, that means that there's a problem with a module that we use for the Local API. This can happen as time goes by and YouTube makes changes to their layout. There isn't much we can do to be prepared for these changes and need to be reactive and update these modules whenever the changes happen. Once the modules are fixed, an update to FreeTube will be required.
 
-If you see this error, please feel free to mention it on GitHub or in [Matrix](/community/matrix).
+If you see this error, please feel free to [create an issue](/community/creating-an-issue).
 
 Switching to the Invidious API or enabling API Fallback in your settings can be used as a workaround depending on what failed. FreeTube will attempt to use Invidious for that part of the Local API.
 
@@ -52,6 +52,8 @@ If you're seeing this error, then that means that the Invidious server you're co
 A workaround would be to try to use a different Invidious instance for obtaining data. There are a list of public instances available to try.
 
 Switching to the Local API or enabling API Fallback in your settings can be used as a workaround depending on what failed. FreeTube will attempt to use the Local API for that part of the Invidious API.
+
+Consider creating in issue in the [Invidious Repository](https://github.com/iv-org/invidious) if the issue persists.
 
 For more information, check out the [Invidious API](/usage/invidious-api) page.
 
