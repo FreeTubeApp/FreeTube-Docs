@@ -5,11 +5,7 @@ permalink: /faq/
 ---
 
 ## What makes FreeTube "private"?
-FreeTube is private in the sense that it doesn't track your viewing habits or make a profile based on your interests. FreeTube does not learn based on your subscriptions or searches. FreeTube stores your subscriptions (as well as other information such as history and favorites) locally to prevent it from being sent anywhere for analytics. FreeTube also does not require an account or signup to use.
-
-YouTube tracks your views through their player. By avoiding their player, you can watch YouTube without YouTube tracking that you've watched a video.
-
-Because you must connect to YouTube to stream the video, your IP is sent to their servers. It is recommended that you use some sort of VPN (or you can use the built in proxy settings) in order to avoid having your IP sent to YouTube servers.
+Check out the [Privacy Section](/usage/privacy) to learn more about privacy with FreeTube.
 
 ## Will you consider adding support for services outside of YouTube? (Twitch, Soundcloud, PeerTube, etc.)
 There are currently no plans to support services outside of YouTube. We are committed to creating a complete YouTube experience while also being as private as possible. There are many things that need to be done to accomplish this and more services will distract us from getting this done. When FreeTube has become feature complete, which may be a long ways from now, then I can consider new services.  For now, do not expect it any time soon.
