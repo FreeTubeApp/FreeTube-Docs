@@ -16,6 +16,8 @@ Logo Design: [jbeguna04](https://github.com/jbeguna04)
 
 Linux / Windows Icon Design: [varlesh](https://github.com/varlesh) / [Papirus Development Team](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 
+Mac Icon: [creepertron95](https://github.com/creepertron95)
+
 Invidious / Invidious API: [omarroth](https://github.com/omarroth)
 
 Local API: [Various Developers](/usage/local-api)
