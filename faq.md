@@ -30,7 +30,7 @@ If you've found a problem with FreeTube, please look through the [common issues]
 
 We are open to accepting help from anyone regardless of your skill set. The simplest way you can help is by [creating an issue](/community/creating-an-issue) or by helping add more documentation. If you know more than one language, we would love it if you helped with [translating to your native language](/community/translations).
 
-If you're a developer and would like to contribute code, please see our [Getting Started](/development/getting-started) guide to learn more. If you want to get some inspiration on what is currently available, check our [bugs](https://github.com/FreeTubeApp/FreeTube/projects/8) and [feature](https://github.com/FreeTubeApp/FreeTube/projects/8) project boards with all available issues.  
+If you're a developer and would like to contribute code, please see our [Getting Started](/development/getting-started) guide to learn more. If you want to get some inspiration on what is currently available, check our [bugs](https://github.com/FreeTubeApp/FreeTube/projects/8) and [feature](https://github.com/FreeTubeApp/FreeTube/projects/7) project boards with all available issues.  
 
 
 ## Electron is bad, please use something else.
