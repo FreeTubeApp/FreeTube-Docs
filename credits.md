@@ -10,7 +10,7 @@ FreeTube is made possible thanks to many different people and projects.
 
 Owner / Lead Developer: [PrestonN](https://github.com/PrestonN)
 
-Co-Developer: [GilgusMaximus](https://github.com/GilgusMaximus)
+Co-Developer: [GilgusMaximus](https://github.com/GilgusMaximus), [Svallinn](https://github.com/Svallinn)
 
 Logo Design: [jbeguna04](https://github.com/jbeguna04)
 
