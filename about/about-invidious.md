@@ -21,7 +21,7 @@ FreeTube and Invidious were developed and released at around the same time. In t
 
 - Invidious is a website, where FreeTube is a desktop application (However FreeTube is also developed using web technologies)
 - Invidious uses a minimal UI, where FreeTube uses a design similar to YouTube
-- FreeTube (with it's [Local API](/usage/local-api)) directly connects to YouTube, where Invidious acts as a middle man between YouTube and the user
+- FreeTube (with its [Local API](/usage/local-api)) directly connects to YouTube, where Invidious acts as a middle man between YouTube and the user
 - Invidious user data is stored on the Invidious server, where FreeTube stores user data on the user's machine
 
 ## Useful Links
