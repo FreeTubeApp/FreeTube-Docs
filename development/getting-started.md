@@ -39,7 +39,7 @@ With this development environment of FreeTube, hot reload is enabled. This means
 
 ## Linting
 
-To keep your code up to par with the rest of the application, we enforce a linter that must pass before we will accept your pull request. This is done automatically when you create you're pull request, however you can test this before your pull request is made.
+To keep your code up to par with the rest of the application, we enforce a linter that must pass before we will accept your pull request. This is done automatically when you create your pull request, however you can test this before your pull request is made.
 
 In the root of your directory, run the following command:
 
