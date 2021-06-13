@@ -63,6 +63,13 @@ If you are adding a new string of text that needs to be available for translatio
 
 You **DO NOT** need to add your strings to the other locale files. Our translation software will handle that for you.
 
+## Adding New External Players
+
+If you are adding a new external player, you will need to add a flag mapping to `/static/external-player-map.json`.
+Please try to add all mappings possible to the player to allow the maximum number of features used. Please follow the schemata of mpv.
+
+You **DO NOT** need to add anything to any source code files.
+
 ## Useful Links and Information
 
 FreeTube is built using Electron and Vue.js, so knowing how these technologies work is beneficial to creating code. These links may be helpful to learning more about these.
