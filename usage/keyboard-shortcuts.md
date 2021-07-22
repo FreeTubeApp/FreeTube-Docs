@@ -22,6 +22,6 @@ FreeTube features a variety of keyboard shortcuts that you can use while watchin
 | Left Arrow  | Rewind 5 Seconds  |
 | Right Arrow  | Forward 5 Seconds  |
 | 0-9  | Skip through video by percentage (Ex: 3 key to skip through 30% of a video)  |
-| Alt + D  | Focus on the search bar |
+| Alt + D  | Toggle Picture-in-picture detached player |
 
 If you'd like to see even more keyboard shortcuts, consider creating a feature request.
