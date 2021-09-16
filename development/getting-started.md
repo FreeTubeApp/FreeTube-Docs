@@ -5,7 +5,7 @@ parent: Development
 permalink: /development/getting-started/
 ---
 
-Getting a development environment setup for FreeTube is very simple. You must have Git and Node.js installed on your system in order to set up your environment.
+Getting a development environment setup for FreeTube is very simple. You must have [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com) installed on your system in order to set up your environment.
 
 Once installed, open a Terminal in a folder that you'd like to store your repository. Then, clone the repository.
 
@@ -22,7 +22,7 @@ cd FreeTube
 Install Dependencies:
 
 ```
-npm install
+yarn install
 ```
 
 Run the application:
