@@ -17,6 +17,9 @@ FreeTube features a variety of keyboard shortcuts that you can use while watchin
 | C  | Turn subtitles on / off  |
 | O  | Decrease video speed by 0.25x |
 | P  | Increase video speed by 0.25x |
+| D  | Enter / Exit Picture in Picture Mode |
+| S  | Enter / Exit Full Window Mode |
+| T  | Enter / Exit Theatre Mode |
 | Up Arrow  | Increase volume  |
 | Down Arrow  | Decrease volume  |
 | Left Arrow  | Rewind 5 seconds / the time-skip interval  |
