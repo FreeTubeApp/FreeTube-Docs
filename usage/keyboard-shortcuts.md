@@ -10,8 +10,8 @@ FreeTube features a variety of keyboard shortcuts that you can use while watchin
 | Key  | Function |
 | ------------- | ------------- |
 | Space Bar or K | Play / Pause video  |
-| J  | Rewind 10 seconds  |
-| L  | Forward 10 seconds  |
+| J  | Rewind 10 seconds / 2x the time-skip interval  |
+| L  | Forward 10 seconds / 2x the time-skip interval  |
 | F  | Enter / Exit Fullscreen  |
 | M  | Mute / Unmute volume  |
 | C  | Turn subtitles on / off  |
@@ -20,10 +20,10 @@ FreeTube features a variety of keyboard shortcuts that you can use while watchin
 | D  | Enter / Exit Picture in Picture Mode |
 | S  | Enter / Exit Full Window Mode |
 | T  | Enter / Exit Theatre Mode |
-| Up Arrow  | Increase Volume  |
-| Down Arrow  | Decrease Volume  |
-| Left Arrow  | Rewind 5 Seconds  |
-| Right Arrow  | Forward 5 Seconds  |
+| Up Arrow  | Increase volume  |
+| Down Arrow  | Decrease volume  |
+| Left Arrow  | Rewind 5 seconds / the time-skip interval  |
+| Right Arrow  | Forward 5 seconds / the time-skip interval  |
 | 0-9  | Skip through video by percentage (Ex: 3 key to skip through 30% of a video)  |
 | Alt + D  | Focus on the search bar |
 
