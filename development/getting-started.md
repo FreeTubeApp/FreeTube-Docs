@@ -22,6 +22,8 @@ cd FreeTube
 Install Dependencies:
 
 ```
+yarn
+# or
 yarn install
 ```
 
