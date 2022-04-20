@@ -19,4 +19,6 @@ The following builds are supported:
 
 Download Privacy Redirect for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/) or [Google Chrome](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb).
 
+Disclamer: Learn more about why a browser extension is bad for your [privacy](https://www.privacyguides.org/browsers/#extensions).
+
 If you have issues with the extension working with FreeTube and you are using one of the supported builds, please create an issue in the [FreeTube Repository](https://github.com/FreeTubeApp/FreeTube) instead of the one for Privacy Redirect. Most if not all problems is a problem with FreeTube itself and not a problem with the extension.
