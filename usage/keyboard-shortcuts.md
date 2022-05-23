@@ -10,8 +10,8 @@ FreeTube features a variety of keyboard shortcuts that you can use while watchin
 | Key  | Function |
 | ------------- | ------------- |
 | Space Bar or K | Play / Pause video |
-| J  | Rewind 10 seconds / Rewind video based on Video Playback Rate Interval (Ex: Video Playback Rate Interval 6x, rewinds 60 seconds of the video ) |
-| L  | Forward 10 seconds / Fast-Forward video based on Video Playback Rate Interval (Ex: Video Playback Rate Interval 4x, Fast-Forward 40 seconds of the video ) |
+| J  | Rewind 10 seconds / Rewind video based on Video Playback Rate Interval (Ex: Video Playback Rate Interval 6x, rewinds 60 seconds of the video) |
+| L  | Forward 10 seconds / Fast-Forward video based on Video Playback Rate Interval (Ex: Video Playback Rate Interval 4x, Fast-Forward 40 seconds of the video) |
 | F  | Enter / Exit Fullscreen |
 | M  | Mute / Unmute volume |
 | C  | Turn subtitles on / off |
