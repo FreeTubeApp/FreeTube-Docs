@@ -29,5 +29,6 @@ FreeTube features a variety of keyboard shortcuts that you can use while watchin
 | Alt + D or Command/Ctrl + L  | Focus on the search bar |
 | Play or Pause | Play / Pause video |
 | Previous or Next | Skips to the Previous / Next video |
+| , or . | While the video is paused, skip to the previous / next frame. |
 
 If you'd like to see even more keyboard shortcuts, consider creating a feature request.
