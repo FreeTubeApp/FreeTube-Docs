@@ -27,5 +27,7 @@ FreeTube features a variety of keyboard shortcuts that you can use while watchin
 | Right Arrow  | Fast-Forward X seconds based on the Fast-Forward Interval and Video Playback Rate Interval (Ex: 5 seconds Fast-Forward Interval and Video Playback Rate Interval 2x, fast-forwards video 10 seconds) |
 | 0-9  | Skip through video by percentage (Ex: 3 key to skip through 30% of a video) |
 | Alt + D or Command/Ctrl + L  | Focus on the search bar |
+| Play or Pause | Play / Pause video |
+| Previous or Next | Skips to the Previous / Next video |
 
 If you'd like to see even more keyboard shortcuts, consider creating a feature request.
