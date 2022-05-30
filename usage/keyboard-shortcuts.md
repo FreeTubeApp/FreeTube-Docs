@@ -21,6 +21,7 @@ FreeTube features a variety of keyboard shortcuts that you can use while watchin
 | S  | Enter / Exit Full Window Mode |
 | T  | Enter / Exit Theatre Mode |
 | D  | Show video statistics modal |
+| U  | Take a Screenshot of a video |
 | Up Arrow  | Increase volume |
 | Down Arrow  | Decrease volume |
 | Left Arrow  | Rewind X seconds based on the Rewind Interval and Video Playback Rate Interval (Ex: 5 seconds Rewind Interval and Video Playback Rate Interval 1x, rewinds video 5 seconds) |
