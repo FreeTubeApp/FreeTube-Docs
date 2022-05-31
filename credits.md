@@ -38,8 +38,6 @@ FreeTube uses the following modules / projects:
 | [@freetube/yt-comment-scraper](https://github.com/FreeTubeApp/yt-comment-scraper)                   | GPL-3.0    |
 | [@silvermine/videojs-quality-selector](https://github.com/silvermine/videojs-quality-selector)      | MIT        |
 | [autolinker](https://github.com/gregjacobs/Autolinker.js)                                           | MIT        |
-| [bulma-pro](https://github.com/mubaidr/bulma-pro)                                                   | MIT        |
-| [dateformat](https://github.com/felixge/node-dateformat)                                            | MIT        |
 | [electron-context-menu](https://github.com/sindresorhus/electron-context-menu)                      | MIT        |
 | [http-proxy-agent](https://github.com/TooTallNate/node-http-proxy-agent)                            | MIT        |
 | [https-proxy-agent](https://github.com/TooTallNate/node-https-proxy-agent)                          | MIT        |
@@ -51,12 +49,10 @@ FreeTube uses the following modules / projects:
 | [marked](https://github.com/markedjs/marked)                                                        | MIT        |
 | [material-design-icons](https://github.com/google/material-design-icons)                            | Apache-2.0 |
 | [nedb-promises](https://github.com/bajankristof/nedb-promises)                                      | MIT        |
-| [node-forge](https://github.com/digitalbazaar/forge)                                                | GPLv2      |
 | [opml-to-json](https://github.com/azu/opml-to-json)                                                 | MIT        |
 | [rss-parser](https://github.com/rbren/rss-parser)                                                   | MIT        |
 | [socks-proxy-agent](https://github.com/TooTallNate/node-socks-proxy-agent)                          | MIT        |
 | [video.js](https://github.com/videojs/video.js)                                                     | Apache-2.0 |
-| [videojs-abloop](https://github.com/phhu/videojs-abloop)                                            | MIT        |
 | [videojs-contrib-quality-levels](https://github.com/videojs/videojs-contrib-quality-levels)         | Apache-2.0 |
 | [videojs-http-source-selector](https://github.com/jfujita/videojs-http-source-selector)             | MIT        |
 | [videojs-overlay](https://github.com/brightcove/videojs-overlay)                                    | Apache-2.0 |
