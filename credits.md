@@ -45,7 +45,6 @@ FreeTube uses the following modules / projects:
 | [js-yaml](https://github.com/nodeca/js-yaml)                                                        | MIT        |
 | [lodash.debounce](https://github.com/lodash/lodash)                                                 | MIT        |
 | [lodash.isequal](https://github.com/lodash/lodash)                                                  | MIT        |
-| [lodash.uniqwith](https://github.com/lodash/lodash)                                                 | MIT        |
 | [marked](https://github.com/markedjs/marked)                                                        | MIT        |
 | [material-design-icons](https://github.com/google/material-design-icons)                            | Apache-2.0 |
 | [nedb-promises](https://github.com/bajankristof/nedb-promises)                                      | MIT        |
@@ -56,10 +55,8 @@ FreeTube uses the following modules / projects:
 | [videojs-contrib-quality-levels](https://github.com/videojs/videojs-contrib-quality-levels)         | Apache-2.0 |
 | [videojs-http-source-selector](https://github.com/jfujita/videojs-http-source-selector)             | MIT        |
 | [videojs-overlay](https://github.com/brightcove/videojs-overlay)                                    | Apache-2.0 |
-| [videojs-replay](https://github.com/hartman/videojs-replay)                                         | Apache-2.0 |
 | [videojs-vtt-thumbnails-freetube](https://github.com/GilgusMaximus/videojs-vtt-thumbnails-freetube) | MIT        |
 | [vue](https://github.com/vuejs/vue)                                                                 | MIT        |
-| [vue-electron](https://github.com/SimulatedGREG/vue-electron)                                       | ISC        |
 | [vue-i18n](https://github.com/kazupon/vue-i18n)                                                     | MIT        |
 | [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility)                          | MIT        |
 | [vue-router](https://github.com/vuejs/vue-router)                                                   | MIT        |
