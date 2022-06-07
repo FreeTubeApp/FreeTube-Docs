@@ -47,7 +47,6 @@ FreeTube uses the following modules / projects:
 | [lodash.isequal](https://github.com/lodash/lodash)                                                  | MIT        |
 | [lodash.uniqwith](https://github.com/lodash/lodash)                                                 | MIT        |
 | [marked](https://github.com/markedjs/marked)                                                        | MIT        |
-| [material-design-icons](https://github.com/google/material-design-icons)                            | Apache-2.0 |
 | [nedb-promises](https://github.com/bajankristof/nedb-promises)                                      | MIT        |
 | [opml-to-json](https://github.com/azu/opml-to-json)                                                 | MIT        |
 | [rss-parser](https://github.com/rbren/rss-parser)                                                   | MIT        |
