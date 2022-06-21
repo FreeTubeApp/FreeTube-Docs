@@ -46,5 +46,6 @@ The FreeTube client can also be controlled with shortcuts you might already be f
 | F11                                  | Toggle fullscreen                      |
 | Command/Ctrl + W                     | Close window                           |
 | Command/Ctrl + M                     | Minimize window                        |
+| Command/Ctrl + N                     | Create a new window                    |
 
 If you'd like to see even more keyboard shortcuts, consider creating a feature request.
