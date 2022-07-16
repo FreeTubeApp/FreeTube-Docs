@@ -48,4 +48,4 @@ The FreeTube client can also be controlled with shortcuts you might already be f
 | Command/Ctrl + M                     | Minimize window                        |
 | Command/Ctrl + N                     | Create a new window                    |
 
-If you'd like to see even more keyboard shortcuts, consider creating a feature request.
+If you'd like to see even more keyboard shortcuts, consider creating a [feature request](https://github.com/FreeTubeApp/FreeTube/issues/new?assignees=&labels=enhancement&template=feature_request.yaml&title=%5BFeature+Request%5D%3A+).
