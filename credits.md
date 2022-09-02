@@ -36,8 +36,7 @@ FreeTube uses the following modules / projects:
 | [@fortawesome/vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome)                      | MIT        |
 | [@freetube/youtube-chat](https://github.com/FreeTubeApp/youtube-chat)                               | MIT        |
 | [@freetube/yt-comment-scraper](https://github.com/FreeTubeApp/yt-comment-scraper)                   | GPL-3.0    |
-| [@freetube/yt-trending-scraper](https://github.com/FreeTubeApp/yt-trending-scraper)
-  | GPL-3.0    |
+| [@freetube/yt-trending-scraper](https://github.com/FreeTubeApp/yt-trending-scraper)                 | GPL-3.0    |
 | [@silvermine/videojs-quality-selector](https://github.com/silvermine/videojs-quality-selector)      | MIT        |
 | [autolinker](https://github.com/gregjacobs/Autolinker.js)                                           | MIT        |
 | [electron-context-menu](https://github.com/sindresorhus/electron-context-menu)                      | MIT        |
