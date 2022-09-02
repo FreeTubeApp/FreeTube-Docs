@@ -36,6 +36,8 @@ FreeTube uses the following modules / projects:
 | [@fortawesome/vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome)                      | MIT        |
 | [@freetube/youtube-chat](https://github.com/FreeTubeApp/youtube-chat)                               | MIT        |
 | [@freetube/yt-comment-scraper](https://github.com/FreeTubeApp/yt-comment-scraper)                   | GPL-3.0    |
+| [@freetube/yt-trending-scraper](https://github.com/FreeTubeApp/yt-trending-scraper)
+  | GPL-3.0    |
 | [@silvermine/videojs-quality-selector](https://github.com/silvermine/videojs-quality-selector)      | MIT        |
 | [autolinker](https://github.com/gregjacobs/Autolinker.js)                                           | MIT        |
 | [electron-context-menu](https://github.com/sindresorhus/electron-context-menu)                      | MIT        |
@@ -63,7 +65,6 @@ FreeTube uses the following modules / projects:
 | [youtube-suggest](https://github.com/goto-bus-stop/youtube-suggest)                                 | Apache-2.0 |
 | [yt-channel-info](https://github.com/FreeTubeApp/yt-channel-info)                                   | ISC        |
 | [yt-dash-manifest-generator](https://github.com/GilgusMaximus/yt-dash-manifest-generator)           | GPLv3      |
-| [yt-trending-scraper](https://github.com/GilgusMaximus/yt-trending-scraper)                         | GPLv3      |
 | [ytdl-core](https://github.com/fent/node-ytdl-core)                                                 | MIT        |
 | [ytpl](https://github.com/TimeForANinja/node-ytpl)                                                  | MIT        |
 | [ytsr](https://github.com/TimeForANinja/node-ytsr)                                                  | MIT        |
