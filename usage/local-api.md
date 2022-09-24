@@ -30,7 +30,6 @@ The Local API is one method of obtaining data from YouTube. For another method o
 | ------------- | ------------- | ------------- |
 | [youtube-chat](https://github.com/LinaTsukusu/youtube-chat)  | MIT | Live Chat | No |
 | [youtube-suggest](https://github.com/goto-bus-stop/youtube-suggest)  | Apache-2.0 | Search Suggestions | No |
-| [yt-xml2vtt](https://github.com/Aasim-A/yt-xml2vtt)  | MIT | CC Conversion | No |
 | [ytdl-core](https://github.com/fent/node-ytdl-core)  | MIT  | Obtain Video Information | No |
 | [ytpl](https://github.com/TimeForANinja/node-ytpl)  | MIT  | Playlists | No |
 | [node-ytsr](https://github.com/TimeForANinja/node-ytsr)  | MIT  | Search Functionality | No |
