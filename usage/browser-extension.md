@@ -5,7 +5,7 @@ parent: Usage
 permalink: /usage/browser-extension/
 ---
 
-FreeTube is supported by the [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) and [LibRedirect](https://github.com/libredirect/libredirect) extensions, which will allow you to open YouTube links into FreeTube. You must enable the option within the advanced settings for it to work.
+FreeTube is supported by the [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) and [LibRedirect](https://github.com/libredirect/libredirect) extensions, which will allow you to open YouTube links into FreeTube. You must enable the option within the advanced settings of the extension for it to work.
 
 In order for the extension to work properly, you must be using an installable, non-portable version of FreeTube. This is because non-portable builds do not setup the required protocol needed for your operating system to redirect the URLs over to FreeTube.
 
