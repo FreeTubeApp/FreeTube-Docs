@@ -1,0 +1,14 @@
+'PR: waiting for review':
+  - '*'  
+  - '.github/**/*'
+  - '_layouts/**/*'
+  - 'about/**/*'
+  - 'community/**/*'
+  - 'development/**/*'
+  - 'images/**/*'
+  - 'usage/**/*'
+  - '.gitignore'
+  
+'PR: dependencies':
+  - 'Gemfile'
+  - 'Gemfile.lock'
