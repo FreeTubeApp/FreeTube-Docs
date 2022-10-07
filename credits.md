@@ -42,7 +42,6 @@ FreeTube uses the following modules / projects:
 | [electron-context-menu](https://github.com/sindresorhus/electron-context-menu)                      | MIT        |
 | [http-proxy-agent](https://github.com/TooTallNate/node-http-proxy-agent)                            | MIT        |
 | [https-proxy-agent](https://github.com/TooTallNate/node-https-proxy-agent)                          | MIT        |
-| [jquery](https://github.com/jquery/jquery)                                                          | MIT        |
 | [js-yaml](https://github.com/nodeca/js-yaml)                                                        | MIT        |
 | [lodash.debounce](https://github.com/lodash/lodash)                                                 | MIT        |
 | [lodash.isequal](https://github.com/lodash/lodash)                                                  | MIT        |
