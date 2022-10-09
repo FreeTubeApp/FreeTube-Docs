@@ -20,4 +20,4 @@ You will now have a local version of the documentation site running on `http://l
 
 We accept pull requests. If you'd like to contribute towards documentation then feel free to submit your changes and we will discuss / review them.
 
-Looking through the [Just The Docs Documentation](https://pmarsceill.github.io/just-the-docs/) (The theme that we use) will also be helpful depending on what changes you'd like to make.
+Looking through the [Just The Docs Documentation](https://just-the-docs.github.io/just-the-docs/) (The theme that we use) will also be helpful depending on what changes you'd like to make.
