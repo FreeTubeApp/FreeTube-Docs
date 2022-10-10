@@ -30,7 +30,7 @@ When using the Invidious API and using the RSS method, FreeTube will grab a prox
 
 YouTube has a limit on how many requests per day an IP address is allowed to make. If you exceed this limit, you will be greeted with a 429 error and will not be allowed to browse using FreeTube any more. This limit can be reached much faster if you have a large amount of subscriptions. As mentioned above, using RSS does not count towards this limit and can be safely used even when you have a large amount of subscriptions.
 
-As a safety precaution, FreeTube will automatically force the RSS method whenever you have more than 125 subscriptions in a profile. This will happen regardless of your settings and there is no way to disable this. Creating a new [profile](/usage/profiles) with less than 125 subscriptions will bypass this however.
+As a safety precaution, FreeTube will automatically force the RSS method whenever you have more than 125 subscriptions in a profile. This will happen regardless of your settings and there is no way to disable this. Creating a new [profile](/usage/profiles/#creating-a-new-profile) with less than 125 subscriptions will bypass this however.
 
 For more information, check out the [Common Issues](/usage/common-issues) page about 429 errors.
 
