@@ -5,7 +5,7 @@ parent: Usage
 permalink: /usage/privacy/
 ---
 
-FreeTube allows you to browse YouTube more privately, but how private is it? I'll be going more into detail here and hopefully answer some questions about the privacy that you're given when you use FreeTube.
+FreeTube allows you to browse YouTube more privately, but how private is it? We'll be going more into detail here and hopefully answer some questions about the privacy that you're given when you use FreeTube.
 
 ## Data
 
