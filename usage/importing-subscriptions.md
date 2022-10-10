@@ -5,7 +5,7 @@ parent: Usage
 permalink: /usage/importing-subscriptions/
 ---
 
-FreeTube has the ability to import your subscriptions from a variety of services.  Here you will find instructions on how to import from each service.
+FreeTube has the ability to import your subscriptions from a variety of services. Here you will find instructions on how to import from each service.
 
 ## From YouTube
 
@@ -26,13 +26,13 @@ Once you have this file, you can import this file into FreeTube by going to `Set
 
 ## From Invidious
 
-While logged into your Invidious account, go to the settings page.  Scroll down to the bottom of the page and look for the "Import/Export Data" link.  On the new page, look at the bottom for "Import Subscriptions as OPML (for NewPipe and FreeTube)".
+While logged into your Invidious account, go to the settings page. Scroll down to the bottom of the page and look for the "Import/Export Data" link. On the new page, look at the bottom for "Import Subscriptions as OPML (for NewPipe and FreeTube)".
 
 Once you have this file, you can import this file into FreeTube by going to `Settings->Data Settings->Import Subscriptions->Import YouTube (.opml)`
 
 ## From NewPipe
 
-Go to your subscriptions page (Not your settings page!).  On this page, click on the `Subscriptions` title to open up a drop down.  In this drop down,click on the "Export to File" button.  Transfer this file to your PC running FreeTube.
+Go to your subscriptions page (Not your settings page!). On this page, click on the `Subscriptions` title to open up a drop down. In this drop down,click on the "Export to File" button. Transfer this file to your PC running FreeTube.
 
 Once you have this file, you can import this file into FreeTube by going to `Settings->Data Settings->Import Subscriptions->Import NewPipe (.json)`
 
@@ -50,8 +50,8 @@ At this time, we do not support importing subscriptions from anywhere other than
 
 There might be situations where FreeTube does not properly import your subscriptions. Please try these troubleshooting steps to see if these can fix your issues.
 
-- Try changing your API preference ([Local](/usage/local-api) / [Invidious](/usage/invidious-api)). Alternatively, try using a different [Invidious Instance](/usage/invidious-api).
+- Try changing your API preference ([Local](/usage/local-api) / [Invidious](/usage/invidious-api)). Alternatively, try using a different [Invidious Instance](https://api.invidious.io/).
 - Browse your exported file for any duplicate channels. FreeTube will show a message that not all channels were able to be imported in this situation, however if your file has duplicates, then this isn't a real issue. **YouTube includes duplicates in their export file more than you think.**
 - Browse your exported file and check for any banned / removed channels. Exporting from YouTube will still include these channels in your exported file, however FreeTube will obviously be unable to import them.
 
-If you are still having issues importing your subscription or if a channel didn't get included in the import (And you know that it's in your export file), consider [creating an issue](/usage/creating-an-issue). You may need to include a link to your exported file in order for us to further investigate the issue.
+If you are still having issues importing your subscription or if a channel didn't get included in the import (And you know that it's in your export file), consider [creating an issue](/community/creating-an-issue). You may need to include a link to your exported file in order for us to further investigate the issue.
