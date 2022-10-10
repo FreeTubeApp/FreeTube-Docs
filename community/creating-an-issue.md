@@ -7,13 +7,13 @@ permalink: /community/creating-an-issue/
 
 You've noticed that there is a problem with FreeTube and you'd like to let the team know about it. We use GitHub for submitting issues and from there we can properly handle the issue you may have.
 
-**NOTE:** Please do not use email as a method of reporting a problem. I can't always respond to emails and using email prevents anyone else in the community from seeing it and possibly fixing it. Creating an issue on GitHub is the best place to report it.
+**NOTE:** Please do not use email as a method of reporting a problem. We can't always respond to emails and using email prevents anyone else in the community from seeing it and possibly fixing it. Creating an issue on GitHub is the best place to report it.
 
 Before creating an issue, please do the following:
 
- - Update your app. Are you running the latest version of FreeTube?
- - Check out the list of [common issues](/usage/common-issues). Follow the instructions there if applicable
- - Check to see if someone has already created an issue about the problem you're experiencing. GitHub provides a search functionality that should be taken advantage of. Duplicate issues takes time away from the team and clutters our list of issues.
+- Update your app. Are you running the latest version of FreeTube?
+- Check out the list of [common issues](/usage/common-issues). Follow the instructions there if applicable
+- Check to see if someone has already created an issue about the problem you're experiencing. GitHub provides a search functionality that should be taken advantage of. Duplicate issues takes time away from the team and clutters our list of issues.
 
 Once the above is done, you can head over to the [GitHub Issues](https://github.com/FreeTubeApp/FreeTube/issues) section of the project and create a new issue. Obviously you will need to have a GitHub account in order to create one.
 
