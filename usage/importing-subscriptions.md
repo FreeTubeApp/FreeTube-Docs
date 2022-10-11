@@ -34,7 +34,7 @@ Once you have this file, you can import this file into FreeTube by going to `Set
 
 Go to your subscriptions page (Not your settings page!). On this page, click on the `Subscriptions` title to open up a drop down. In this drop down,click on the "Export to File" button. Transfer this file to your PC running FreeTube.
 
-Once you have this file, you can import this file into FreeTube by going to `Settings->Data Settings->Import Subscriptions->Import NewPipe (.json)`
+Once you have this file, you can import this file into FreeTube by going to `Settings->Data Settings->Import Subscriptions`
 
 ## From other FreeTube instances
 
