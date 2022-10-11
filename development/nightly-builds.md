@@ -17,4 +17,4 @@ In the main list, you will now see commit messages that explain the change that 
 
 Towards the bottom of the page, you will see a section labeled `Artifacts`. Here you can download the build for your operating system of choice. Click on a build to start your download.
 
-**NOTE:** If you are unable to click on a build and download it, it's because you are required to sign in to GitHub in order to access these download links. Unfortunately there is nothing I can do about to change this.
+**NOTE:** If you are unable to click on a build and download it, it's because you are required to sign in to GitHub in order to access these download links. Unfortunately there is nothing we can do about to change this.
