@@ -28,7 +28,7 @@ Once you have this file, you can import this file into FreeTube by going to `Set
 
 While logged into your Invidious account, go to the settings page. Scroll down to the bottom of the page and look for the "Import/Export Data" link. On the new page, look at the bottom for "Import Subscriptions as OPML (for NewPipe and FreeTube)".
 
-Once you have this file, you can import this file into FreeTube by going to `Settings->Data Settings->Import Subscriptions->Import YouTube (.opml)`
+Once you have this file, you can import this file into FreeTube by going to `Settings->Data Settings->Import Subscriptions
 
 ## From NewPipe
 
