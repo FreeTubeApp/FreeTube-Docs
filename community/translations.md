@@ -8,7 +8,7 @@ permalink: /community/translations/
 FreeTube uses the Weblate project in order to crowdsource all it's translations. However the activation of the languages have to be made manually.
 
 <a href="https://hosted.weblate.org/engage/free-tube/">
-<img src="https://hosted.weblate.org/widgets/free-tube/-/translations/287x66-grey.png" alt="Translation status" />
+<img src="https://hosted.weblate.org/widgets/free-tube/-/287x66-grey.png" alt="Translation status" />
 </a>
 
 ## How to translate with Weblate
