@@ -22,7 +22,7 @@ FreeTube has the ability to import your subscriptions from a variety of services
 11. Extract the .zip file
 12. The file you want will be in `Takeout/YouTube and YouTube Music/subscriptions/subscriptions.json`
 
-Once you have this file, you can import this file into FreeTube by going to `Settings->Data Settings->Import Subscriptions->Import YouTube (.json)`
+Once you have this file, you can import this file into FreeTube by going to `Settings->Data Settings->Import Subscriptions`
 
 ## From Invidious
 
@@ -40,7 +40,7 @@ Once you have this file, you can import this file into FreeTube by going to `Set
 
 Go to the settings page of the FreeTube app. Under "Subscription Settings", set your subscriptions export type to "FreeTube" and click on "Export Susbcriptions".
 
-Once you have transferred this file to your new machine, you can import this file into FreeTube by going to `Settings->Data Settings->Import Subscriptions->Import FreeTube (.db)`
+Once you have transferred this file to your new machine, you can import this file into FreeTube by going to `Settings->Data Settings->Import Subscriptions`
 
 ## From Somewhere Else
 
