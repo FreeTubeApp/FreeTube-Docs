@@ -34,7 +34,6 @@ FreeTube uses the following modules / projects:
 | [autolinker](https://github.com/gregjacobs/Autolinker.js)                                          | MIT        |
 | [browserify](https://github.com/browserify/browserify)                                             | MIT        |
 | [electron-context-menu](https://github.com/sindresorhus/electron-context-menu)                     | MIT        |
-| [eslint-plugin-vuejs-accessibility](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibility) | MIT        |
 | [http-proxy-agent](https://github.com/TooTallNate/node-http-proxy-agent)                           | MIT        |
 | [https-proxy-agent](https://github.com/TooTallNate/node-https-proxy-agent)                         | MIT        |
 | [lodash.debounce](https://github.com/lodash/lodash)                                                | MIT        |
