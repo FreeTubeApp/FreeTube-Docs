@@ -42,7 +42,6 @@ FreeTube uses the following modules / projects:
 | [nedb-promises](https://github.com/bajankristof/nedb-promises)                                 | MIT        |
 | [opml-to-json](https://github.com/azu/opml-to-json)                                            | MIT        |
 | [process](https://github.com/defunctzombie/node-process)                                       | MIT        |
-| [rss-parser](https://github.com/rbren/rss-parser)                                              | MIT        |
 | [socks-proxy-agent](https://github.com/TooTallNate/node-socks-proxy-agent)                     | MIT        |
 | [video.js](https://github.com/videojs/video.js)                                                | Apache-2.0 |
 | [videojs-contrib-quality-levels](https://github.com/videojs/videojs-contrib-quality-levels)    | Apache-2.0 |
