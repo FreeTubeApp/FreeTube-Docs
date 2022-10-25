@@ -46,6 +46,7 @@ FreeTube uses the following modules / projects:
 | [video.js](https://github.com/videojs/video.js)                                                | Apache-2.0 |
 | [videojs-contrib-quality-levels](https://github.com/videojs/videojs-contrib-quality-levels)    | Apache-2.0 |
 | [videojs-http-source-selector](https://github.com/jfujita/videojs-http-source-selector)        | MIT        |
+| [videojs-mobile-ui](https://github.com/mister-ben/videojs-mobile-ui)                           | MIT        |
 | [videojs-overlay](https://github.com/brightcove/videojs-overlay)                               | Apache-2.0 |
 | [videojs-vtt-thumbnails-freetube](https://github.com/FreeTubeApp/videojs-vtt-thumbnails)       | MIT        |
 | [vue](https://github.com/vuejs/vue)                                                            | MIT        |
