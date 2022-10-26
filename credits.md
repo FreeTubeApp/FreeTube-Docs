@@ -42,11 +42,11 @@ FreeTube uses the following modules / projects:
 | [nedb-promises](https://github.com/bajankristof/nedb-promises)                                 | MIT        |
 | [opml-to-json](https://github.com/azu/opml-to-json)                                            | MIT        |
 | [process](https://github.com/defunctzombie/node-process)                                       | MIT        |
-| [rss-parser](https://github.com/rbren/rss-parser)                                              | MIT        |
 | [socks-proxy-agent](https://github.com/TooTallNate/node-socks-proxy-agent)                     | MIT        |
 | [video.js](https://github.com/videojs/video.js)                                                | Apache-2.0 |
 | [videojs-contrib-quality-levels](https://github.com/videojs/videojs-contrib-quality-levels)    | Apache-2.0 |
 | [videojs-http-source-selector](https://github.com/jfujita/videojs-http-source-selector)        | MIT        |
+| [videojs-mobile-ui](https://github.com/mister-ben/videojs-mobile-ui)                           | MIT        |
 | [videojs-overlay](https://github.com/brightcove/videojs-overlay)                               | Apache-2.0 |
 | [videojs-vtt-thumbnails-freetube](https://github.com/FreeTubeApp/videojs-vtt-thumbnails)       | MIT        |
 | [vue](https://github.com/vuejs/vue)                                                            | MIT        |
