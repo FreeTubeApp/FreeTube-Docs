@@ -40,7 +40,6 @@ FreeTube uses the following modules / projects:
 | [lodash.isequal](https://github.com/lodash/lodash)                                             | MIT        |
 | [marked](https://github.com/markedjs/marked)                                                   | MIT        |
 | [nedb-promises](https://github.com/bajankristof/nedb-promises)                                 | MIT        |
-| [opml-to-json](https://github.com/azu/opml-to-json)                                            | MIT        |
 | [process](https://github.com/defunctzombie/node-process)                                       | MIT        |
 | [socks-proxy-agent](https://github.com/TooTallNate/node-socks-proxy-agent)                     | MIT        |
 | [video.js](https://github.com/videojs/video.js)                                                | Apache-2.0 |
