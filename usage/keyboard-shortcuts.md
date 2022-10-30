@@ -54,6 +54,7 @@ The FreeTube client can also be controlled with shortcuts you might already be f
 | Command/Ctrl + W                     | Close window                           |
 | Command/Ctrl + M                     | Minimize window                        |
 | Command/Ctrl + N                     | Create a new window                    |
+| Command/Ctrl + ,                     | Navigate to Preferences                |
 | Alt + Left Arrow                     | Go back one page                       |
 | Alt + Right Arrow                    | Go forward one page                    |
 
