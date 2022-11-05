@@ -33,11 +33,11 @@ FreeTube uses the following modules / projects:
 | [@silvermine/videojs-quality-selector](https://github.com/silvermine/videojs-quality-selector) | MIT        |
 | [autolinker](https://github.com/gregjacobs/Autolinker.js)                                      | MIT        |
 | [browserify](https://github.com/browserify/browserify)                                         | MIT        |
+| [browserify-zlib](https://github.com/browserify/browserify-zlib)                               | MIT        |
 | [electron-context-menu](https://github.com/sindresorhus/electron-context-menu)                 | MIT        |
 | [http-proxy-agent](https://github.com/TooTallNate/node-http-proxy-agent)                       | MIT        |
 | [https-proxy-agent](https://github.com/TooTallNate/node-https-proxy-agent)                     | MIT        |
 | [lodash.debounce](https://github.com/lodash/lodash)                                            | MIT        |
-| [lodash.isequal](https://github.com/lodash/lodash)                                             | MIT        |
 | [marked](https://github.com/markedjs/marked)                                                   | MIT        |
 | [nedb-promises](https://github.com/bajankristof/nedb-promises)                                 | MIT        |
 | [opml-to-json](https://github.com/azu/opml-to-json)                                            | MIT        |
