@@ -53,7 +53,7 @@ FreeTube uses the following modules / projects:
 | [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility)                     | MIT        |
 | [vue-router](https://github.com/vuejs/vue-router)                                              | MIT        |
 | [vuex](https://github.com/vuejs/vuex)                                                          | MIT        |
-| [youtube-suggest](https://github.com/goto-bus-stop/youtube-suggest)                            | Apache-2.0 |
+| [youtubei.js](https://github.com/LuanRT/YouTube.js)                                            | MIT        |
 | [yt-channel-info](https://github.com/FreeTubeApp/yt-channel-info)                              | ISC        |
 | [yt-dash-manifest-generator](https://github.com/FreeTubeApp/yt-dash-manifest-generator)        | GPLv3      |
 | [ytdl-core](https://github.com/fent/node-ytdl-core)                                            | MIT        |
