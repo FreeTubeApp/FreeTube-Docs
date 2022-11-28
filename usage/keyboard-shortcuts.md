@@ -41,21 +41,22 @@ The Subscription, Trending, and Most Popular Pages have the following shortcuts:
 
 The FreeTube client can also be controlled with shortcuts you might already be familiar with:
 
-| Key                                  | Function                               |
-| ------------------------------------ | -------------------------------------- |
-| Command/Ctrl + Q                     | Quit FreeTube                          |
-| Command/Ctrl + R                     | Reload FreeTube                        |
-| Command/Ctrl + SHIFT + R             | Force reload FreeTube (avoids caching) |
-| Command/Ctrl + SHIFT + I             | Toggle developer tools                 |
-| Command/Ctrl + 0                     | Reset zoom level/ui scale              |
-| Command/Ctrl + + or Command/Ctrl + = | Zoom in                                |
-| Command/Ctrl + -                     | Zoom out                               |
-| F11                                  | Toggle fullscreen                      |
-| Command/Ctrl + W                     | Close window                           |
-| Command/Ctrl + M                     | Minimize window                        |
-| Command/Ctrl + N                     | Create a new window                    |
-| Command/Ctrl + ,                     | Navigate to Preferences                |
-| Alt + Left Arrow                     | Go back one page                       |
-| Alt + Right Arrow                    | Go forward one page                    |
+| Key                                     | Function                               |
+| --------------------------------------- | -------------------------------------- |
+| Command/Ctrl + Q                        | Quit FreeTube                          |
+| Command/Ctrl + R                        | Reload FreeTube                        |
+| Command/Ctrl + SHIFT + R                | Force reload FreeTube (avoids caching) |
+| Command/Ctrl + SHIFT + I                | Toggle developer tools                 |
+| Command/Ctrl + 0                        | Reset zoom level/ui scale              |
+| Command/Ctrl + + or Command/Ctrl + =    | Zoom in                                |
+| Command/Ctrl + -                        | Zoom out                               |
+| F11                                     | Toggle fullscreen                      |
+| Command/Ctrl + W                        | Close window                           |
+| Command/Ctrl + M                        | Minimize window                        |
+| Command/Ctrl + N                        | Create a new window                    |
+| Command/Ctrl + ,                        | Navigate to Preferences                |
+| Command + Y (MacOS)/Ctrl + H (Other OS) | Navigate to History                    |
+| Alt + Left Arrow                        | Go back one page                       |
+| Alt + Right Arrow                       | Go forward one page                    |
 
 If you'd like to see even more keyboard shortcuts, consider creating a [feature request](https://github.com/FreeTubeApp/FreeTube/issues/new?assignees=&labels=enhancement&template=feature_request.yaml&title=%5BFeature+Request%5D%3A+).
