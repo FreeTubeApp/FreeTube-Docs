@@ -56,4 +56,3 @@ FreeTube uses the following modules / projects:
 | [yt-channel-info](https://github.com/FreeTubeApp/yt-channel-info)                              | ISC        |
 | [yt-dash-manifest-generator](https://github.com/FreeTubeApp/yt-dash-manifest-generator)        | GPLv3      |
 | [ytdl-core](https://github.com/fent/node-ytdl-core)                                            | MIT        |
-| [ytsr](https://github.com/TimeForANinja/node-ytsr)                                             | MIT        |

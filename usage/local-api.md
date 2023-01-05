@@ -26,16 +26,15 @@ The Local API is one method of obtaining data from YouTube. For another method o
 
 ## Modules Used in the Local API
 
-| Name                                                                                     | License | Functionality                           | Maintained By the FreeTube Team? |
-| ---------------------------------------------------------------------------------------- | ------- | --------------------------------------- | -------------------------------- |
-| [youtube-chat](https://github.com/FreeTubeApp/youtube-chat)                              | MIT     | Live Chat                               | Yes                              |
-| [youtubei.js](https://github.com/LuanRT/YouTube.js)                                      | MIT     | Search Suggestions, Playlists, Trending | No                               |
-| [ytdl-core](https://github.com/fent/node-ytdl-core)                                      | MIT     | Obtain Video Information                | No                               |
-| [node-ytsr](https://github.com/TimeForANinja/node-ytsr)                                  | MIT     | Search Functionality                    | No                               |
-| [videojs-vtt-thumbnails-freetube](https://github.com/FreeTubeApp/videojs-vtt-thumbnails) | MIT     | Handle Video Thumbnails / Storyboards   | Yes                              |
-| [yt-channel-info](https://github.com/FreeTubeApp/yt-channel-info)                        | ISC     | Channel Info / Search                   | Yes                              |
-| [yt-comment-scraper](https://github.com/FreeTubeApp/yt-comment-scraper)                  | GPL-3.0 | Comment Info / Sort                     | Yes                              |
-| [yt-dash-manifest-generator](https://github.com/FreeTubeApp/yt-dash-manifest-generator)  | GPL-3.0 | Generate DASH Files                     | Yes                              |
+| Name                                                                                     | License | Functionality                                            | Maintained By the FreeTube Team? |
+| ---------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------- | -------------------------------- |
+| [youtube-chat](https://github.com/FreeTubeApp/youtube-chat)                              | MIT     | Live Chat                                                | Yes                              |
+| [youtubei.js](https://github.com/LuanRT/YouTube.js)                                      | MIT     | Search Functionality + Suggestions, Playlists, Trending  | No                               |
+| [ytdl-core](https://github.com/fent/node-ytdl-core)                                      | MIT     | Obtain Video Information                                 | No                               |
+| [videojs-vtt-thumbnails-freetube](https://github.com/FreeTubeApp/videojs-vtt-thumbnails) | MIT     | Handle Video Thumbnails / Storyboards                    | Yes                              |
+| [yt-channel-info](https://github.com/FreeTubeApp/yt-channel-info)                        | ISC     | Channel Info / Search                                    | Yes                              |
+| [yt-comment-scraper](https://github.com/FreeTubeApp/yt-comment-scraper)                  | GPL-3.0 | Comment Info / Sort                                      | Yes                              |
+| [yt-dash-manifest-generator](https://github.com/FreeTubeApp/yt-dash-manifest-generator)  | GPL-3.0 | Generate DASH Files                                      | Yes                              |
 
 ## Fallback
 
