@@ -54,5 +54,3 @@ FreeTube uses the following modules / projects:
 | [vuex](https://github.com/vuejs/vuex)                                                          | MIT        |
 | [youtubei.js](https://github.com/LuanRT/YouTube.js)                                            | MIT        |
 | [yt-channel-info](https://github.com/FreeTubeApp/yt-channel-info)                              | ISC        |
-| [yt-dash-manifest-generator](https://github.com/FreeTubeApp/yt-dash-manifest-generator)        | GPLv3      |
-| [ytdl-core](https://github.com/fent/node-ytdl-core)                                            | MIT        |
