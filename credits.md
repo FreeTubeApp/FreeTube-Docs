@@ -34,13 +34,10 @@ FreeTube uses the following modules / projects:
 | [browserify](https://github.com/browserify/browserify)                                         | MIT        |
 | [browserify-zlib](https://github.com/browserify/browserify-zlib)                               | MIT        |
 | [electron-context-menu](https://github.com/sindresorhus/electron-context-menu)                 | MIT        |
-| [http-proxy-agent](https://github.com/TooTallNate/node-http-proxy-agent)                       | MIT        |
-| [https-proxy-agent](https://github.com/TooTallNate/node-https-proxy-agent)                     | MIT        |
 | [lodash.debounce](https://github.com/lodash/lodash)                                            | MIT        |
 | [marked](https://github.com/markedjs/marked)                                                   | MIT        |
 | [nedb-promises](https://github.com/bajankristof/nedb-promises)                                 | MIT        |
 | [process](https://github.com/defunctzombie/node-process)                                       | MIT        |
-| [socks-proxy-agent](https://github.com/TooTallNate/node-socks-proxy-agent)                     | MIT        |
 | [video.js](https://github.com/videojs/video.js)                                                | Apache-2.0 |
 | [videojs-contrib-quality-levels](https://github.com/videojs/videojs-contrib-quality-levels)    | Apache-2.0 |
 | [videojs-http-source-selector](https://github.com/jfujita/videojs-http-source-selector)        | MIT        |
@@ -54,5 +51,3 @@ FreeTube uses the following modules / projects:
 | [vuex](https://github.com/vuejs/vuex)                                                          | MIT        |
 | [youtubei.js](https://github.com/LuanRT/YouTube.js)                                            | MIT        |
 | [yt-channel-info](https://github.com/FreeTubeApp/yt-channel-info)                              | ISC        |
-| [yt-dash-manifest-generator](https://github.com/FreeTubeApp/yt-dash-manifest-generator)        | GPLv3      |
-| [ytdl-core](https://github.com/fent/node-ytdl-core)                                            | MIT        |
