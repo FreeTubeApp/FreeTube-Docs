@@ -20,7 +20,7 @@ FreeTube has the ability to import your subscriptions from a variety of services
 9. Select your preferred method of deliver (Email, Dropbox, etc.) and click on "Create Export" (Instructions from here on out will assume that you selected email)
 10. Check your email and download the .zip file that is provided.
 11. Extract the .zip file
-12. The file you want will be in `Takeout/YouTube and YouTube Music/subscriptions/subscriptions.json`
+12. The file you want will be in `Takeout/YouTube and YouTube Music/subscriptions/subscriptions.csv`
 
 Once you have this file, you can import this file into FreeTube by going to `Settings->Data Settings->Import Subscriptions`
 
