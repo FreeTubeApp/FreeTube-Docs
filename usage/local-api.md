@@ -31,7 +31,6 @@ The Local API is one method of obtaining data from YouTube. For another method o
 | [youtubei.js](https://github.com/LuanRT/YouTube.js)                                      | MIT     | Search Functionality + Suggestions, Playlists, Trending, Obtain Video Information, Generate DASH Files, Live Chat | No                               |
 | [videojs-vtt-thumbnails-freetube](https://github.com/FreeTubeApp/videojs-vtt-thumbnails) | MIT     | Handle Video Thumbnails / Storyboards                                                                             | Yes                              |
 | [yt-channel-info](https://github.com/FreeTubeApp/yt-channel-info)                        | ISC     | Channel Info / Search                                                                                             | Yes                              |
-| [yt-comment-scraper](https://github.com/FreeTubeApp/yt-comment-scraper)                  | GPL-3.0 | Comment Info / Sort                                                                                               | Yes                              |
 
 ## Fallback
 
