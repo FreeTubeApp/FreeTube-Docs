@@ -27,7 +27,6 @@ FreeTube uses the following modules / projects:
 | [@fortawesome/free-brands-svg-icons](https://github.com/FortAwesome/Font-Awesome)              | MIT        |
 | [@fortawesome/free-solid-svg-icons](https://github.com/FortAwesome/Font-Awesome)               | MIT        |
 | [@fortawesome/vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome)                 | MIT        |
-| [@freetube/yt-comment-scraper](https://github.com/FreeTubeApp/yt-comment-scraper)              | GPL-3.0    |
 | [@silvermine/videojs-quality-selector](https://github.com/silvermine/videojs-quality-selector) | MIT        |
 | [autolinker](https://github.com/gregjacobs/Autolinker.js)                                      | MIT        |
 | [browserify](https://github.com/browserify/browserify)                                         | MIT        |
