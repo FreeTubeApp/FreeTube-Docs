@@ -45,7 +45,6 @@ The FreeTube client can also be controlled with shortcuts you might already be f
 
 | Key                                     | Function                               |
 | --------------------------------------- | -------------------------------------- |
-| Command/Ctrl + Q                        | Quit FreeTube                          |
 | Command/Ctrl + R                        | Reload FreeTube                        |
 | Command/Ctrl + SHIFT + R                | Force reload FreeTube (avoids caching) |
 | Command/Ctrl + SHIFT + I                | Toggle developer tools                 |
