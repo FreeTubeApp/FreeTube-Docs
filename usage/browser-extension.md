@@ -9,7 +9,7 @@ FreeTube is supported by the [Privacy Redirect](https://github.com/SimonBrazell/
 
 - Download Privacy Redirect for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/) or [Google Chrome](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb).
 
-- Download LibRedirect for [Firefox](https://addons.mozilla.org/firefox/addon/libredirect/) or [Google Chrome](https://github.com/libredirect/libredirect/blob/master/chromium.md).
+- Download LibRedirect for [Firefox](https://addons.mozilla.org/firefox/addon/libredirect/) or [Google Chrome](https://libredirect.github.io/download_chromium.html).
 
 If you have issues with the extension working with FreeTube, please create an issue in the [FreeTube Repository](https://github.com/FreeTubeApp/FreeTube) instead of the extension repository. Most if not all problems is a problem with FreeTube itself and not a problem with the extension.
 
