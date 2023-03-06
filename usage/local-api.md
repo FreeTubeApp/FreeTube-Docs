@@ -22,15 +22,13 @@ The Local API is one method of obtaining data from YouTube. For another method o
 
 - Updates to the Local API requires the user to download a new version of FreeTube
 - The Local API makes calls directly to YouTube, which can slightly hinder privacy
-- Because the FreeTube team doesn't 100% maintain the Local API, updates to make fixes can potentially take longer due to a fix not yet being available by the maintainer of a certain part.
+- Because the FreeTube team doesn't maintain the Local API, updates to make fixes can potentially take longer due to a fix not yet being available by the maintainer of a certain part.
 
 ## Modules Used in the Local API
 
-| Name                                                                                     | License | Functionality                                                                                                     | Maintained By the FreeTube Team? |
-| ---------------------------------------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| [youtubei.js](https://github.com/LuanRT/YouTube.js)                                      | MIT     | Search Functionality + Suggestions, Playlists, Trending, Obtain Video Information, Generate DASH Files, Live Chat | No                               |
-| [videojs-vtt-thumbnails-freetube](https://github.com/FreeTubeApp/videojs-vtt-thumbnails) | MIT     | Handle Video Thumbnails / Storyboards                                                                             | Yes                              |
-| [yt-channel-info](https://github.com/FreeTubeApp/yt-channel-info)                        | ISC     | Channel Info / Search                                                                                             | Yes                              |
+| Name                                                | License | Maintained By the FreeTube Team? |
+| --------------------------------------------------- | ------- | -------------------------------- |
+| [youtubei.js](https://github.com/LuanRT/YouTube.js) | MIT     | No                               |
 
 ## Fallback
 

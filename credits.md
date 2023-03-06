@@ -48,4 +48,3 @@ FreeTube uses the following modules / projects:
 | [vue-router](https://github.com/vuejs/vue-router)                                              | MIT        |
 | [vuex](https://github.com/vuejs/vuex)                                                          | MIT        |
 | [youtubei.js](https://github.com/LuanRT/YouTube.js)                                            | MIT        |
-| [yt-channel-info](https://github.com/FreeTubeApp/yt-channel-info)                              | ISC        |
