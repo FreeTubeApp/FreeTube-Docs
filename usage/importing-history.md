@@ -26,18 +26,6 @@ FreeTube has the ability to import your history from a variety of services. Here
 
 Once you have this file, you can import this file into FreeTube by going to `Settings->Data Settings->Import History`
 
-## From Invidious
-
-While logged into your Invidious account, go to the settings page. Scroll down to the bottom of the page and look for the "Import/Export Data" link. On the new page, look at the bottom for "Import Subscriptions as OPML (for NewPipe and FreeTube)".
-
-Once you have this file, you can import this file into FreeTube by going to `Settings->Data Settings->Import Subscriptions`
-
-## From NewPipe
-
-Go to your subscriptions page (Not your settings page!). On this page, click on the `Subscriptions` title to open up a drop down. In this drop down,click on the "Export to File" button. Transfer this file to your PC running FreeTube.
-
-Once you have this file, you can import this file into FreeTube by going to `Settings->Data Settings->Import Subscriptions`
-
 ## From other FreeTube instances
 
 Go to the Settings page of the FreeTube app. Under "Data Settings", click on "Export History".
