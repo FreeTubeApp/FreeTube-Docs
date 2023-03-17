@@ -22,7 +22,7 @@ FreeTube has the ability to import your history from a variety of services. Here
 11. Select your preferred method of deliver (Email, Dropbox, etc.) and click on "Create Export" (Instructions from here on out will assume that you selected email)
 12. Check your email and download the .zip file that is provided.
 13. Extract the .zip file
-14. The file you want will be in `Takeout/YouTube and YouTube Music/history/history.json`
+14. The file you want will be in `Takeout/YouTube and YouTube Music/history/watch-history.json`
 
 Once you have this file, you can import this file into FreeTube by going to `Settings->Data Settings->Import History`
 
