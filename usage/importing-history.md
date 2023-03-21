@@ -35,13 +35,3 @@ Once you have transferred this file to your new machine, you can import this fil
 ## From Somewhere Else
 
 At this time, we do not support importing history from anywhere other than the above methods. Please ask the maintainer of your app if they would be open to supporting exporting their history into one of the above formats and then use that import function within FreeTube to import your history.
-
-## Troubleshooting Issues
-
-There might be situations where FreeTube does not properly import your subscriptions. Please try these troubleshooting steps to see if these can fix your issues.
-
-- Try changing your API preference ([Local](/usage/local-api) / [Invidious](/usage/invidious-api)). Alternatively, try using a different [Invidious Instance](https://api.invidious.io/).
-- Browse your exported file for any duplicate channels. FreeTube will show a message that not all channels were able to be imported in this situation, however if your file has duplicates, then this isn't a real issue. **YouTube includes duplicates in their export file more than you think.**
-- Browse your exported file and check for any banned / removed channels. Exporting from YouTube will still include these channels in your exported file, however FreeTube will obviously be unable to import them.
-
-If you are still having issues importing your subscription or if a channel didn't get included in the import (And you know that it's in your export file), consider [creating an issue](/community/creating-an-issue). You may need to include a link to your exported file in order for us to further investigate the issue.
