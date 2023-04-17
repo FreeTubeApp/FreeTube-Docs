@@ -7,7 +7,7 @@ permalink: /community/unofficial-downloads/
 
 Requirements for being listed as an unofficial download of FreeTube:
 
-- The download must have been updated in the last month.
+- The download must be updated within one month of a FreeTube release.
 - The download must be served via HTTPS.
 - The download must be served via a domain name.
 - The download must not alter or compromise the privacy features of FreeTube.
