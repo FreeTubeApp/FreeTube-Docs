@@ -37,9 +37,9 @@ FreeTube features a variety of keyboard shortcuts that you can use while watchin
 
 The Subscription, Trending, and Most Popular Pages have the following shortcuts:
 
-| Key | Function           |
-| --- | ------------------ |
-| R   | Refresh video list |
+| Key     | Function           |
+| ------- | ------------------ |
+| R or F5 | Refresh video list |
 
 The FreeTube client can also be controlled with shortcuts you might already be familiar with:
 
