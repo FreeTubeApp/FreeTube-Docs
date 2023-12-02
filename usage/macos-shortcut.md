@@ -13,13 +13,13 @@ Even though there isn't any official browser extension which supports Safari, it
 
 2. Click on the “+” button to create a new shortcut with the following actions:
 
-    ![alt text](../images/ShortcutMacOS.png)
+    ![Shortcut code](/images/ShortcutMacOS.png)
 
     The script first checks if the currently opened Safari tab's URL contains "youtube.com". If not, it then checks the clipboard for this string. If neither contains "youtube.com", an error message appears. Otherwise, FreeTube plays the YouTube video from the link.
 
 3. The last step is to keybind the shortcut. Click on ⓘ in the top of the right side menu. Finally, assign any combination of keys.
 
-    ![alt text](../images/ShortcutKeybind.png)
+    ![Shortcut options - keybinding](/images/ShortcutKeybind.png)
 
 Once this is done, it should be possible to open a Safari Youtube window and launch the shortcut with the keybind configured in the last step. The Youtube link can also be in the clipboard.
 
