@@ -21,7 +21,7 @@ Even though there isn't any official browser extension which supports Safari, it
 
     ![Shortcut options - keybinding](/images/ShortcutKeybind.png)
 
-Once this is done, it should be possible to open a Safari Youtube window and launch the shortcut with the keybind configured in the last step. The Youtube link can also be in the clipboard.
+Once this is done, it should be possible to open a Safari YouTube window and launch the shortcut with the keybind configured in the last step. The YouTube link can also be in the clipboard.
 
 **NOTE:**
 - FreeTube doesn't need to be opened in order for the shortcut to be run.
