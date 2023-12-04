@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MacOS shortcut
+title: macOS shortcut
 parent: Usage
 permalink: /usage/macos-shortcut/
 ---
