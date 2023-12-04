@@ -23,7 +23,7 @@ Even though there isn't any official browser extension which supports Safari, it
 
 Once this is done, it should be possible to open a Safari YouTube window and launch the shortcut with the keybind configured in the last step. The YouTube link can also be in the clipboard.
 
-**NOTE:**
+**Note:**
 - FreeTube doesn't need to be opened in order for the shortcut to be run.
 - MacOS updates might remove the shortcut keybinding.
 
