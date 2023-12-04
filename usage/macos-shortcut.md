@@ -5,7 +5,7 @@ parent: Usage
 permalink: /usage/macos-shortcut/
 ---
 
-Even though there isn't any official browser extension which supports Safari, it is possible to automatically open Youtube videos on Freetube, with the help of [shortcuts](https://support.apple.com/en-en/guide/shortcuts-mac/apdf22b0444c/mac). This application comes pre-installed on macOS, eliminating the need for additional packages to ensure its functionality.
+Even though there isn't any official browser extension which supports Safari, it is possible to automatically open YouTube videos on FreeTube, with the help of [Shortcuts](https://support.apple.com/en-en/guide/shortcuts-mac/apdf22b0444c/mac). This application comes pre-installed on macOS, eliminating the need for additional packages to ensure its functionality.
 
 **Note:** This shorcut requires administrator*(sudo)* rights in order to run.
 
