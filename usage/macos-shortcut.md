@@ -25,5 +25,5 @@ Once this is done, it should be possible to open a Safari YouTube window and lau
 
 **Note:**
 - FreeTube doesn't need to be opened in order to run the shortcut.
-- MacOS updates might remove the shortcut keybinding.
+- macOS updates might remove the shortcut keybinding.
 
