@@ -7,7 +7,7 @@ permalink: /about/freetube
 
 # What is FreeTube?
 
-FreeTube is an Open Source desktop application for Windows / Mac / Linux. It allows you to browse YouTube more privately compared to browsing on the site directly. Any data about you is stored locally on your own machine and is not sent or published to the internet. You can subscribe to your favorite channels and navigate the application in a similar manner to you would on YouTube.
+FreeTube is an Open Source desktop application for Windows (10 and later), Mac (macOS 10.15 and later) and Linux. It allows you to browse YouTube more privately compared to browsing on the site directly. Any data about you is stored locally on your own machine and is not sent or published to the internet. You can subscribe to your favorite channels and navigate the application in a similar manner to you would on YouTube.
 
 ## How Does it Work?
 
