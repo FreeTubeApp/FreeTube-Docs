@@ -1,7 +1,7 @@
 # FreeTube Docs
 
 This is the Official Documentation website for [FreeTube](https://freetubeapp.io/), the Open Source YouTube client
-for Windows, Mac, and Linux built around privacy. It is built using Jekyll and deployed using GitHub Pages.
+for Windows (10 and later), Mac (macOS 10.15 and later), and Linux built around privacy. It is built using Jekyll and deployed using GitHub Pages.
 
 ## Setup
 
