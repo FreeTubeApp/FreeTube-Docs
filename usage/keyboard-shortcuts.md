@@ -50,7 +50,7 @@ The FreeTube client can also be controlled with shortcuts you might already be f
 
 | Key                                            | Function                               |
 | ---------------------------------------------- | -------------------------------------- |
-| Command + Q (MacOS)/Alt + f4 (Windows & Linux) | Quit FreeTube                          |
+| Command + Q (macOS)/Alt + f4 (Windows & Linux) | Quit FreeTube                          |
 | Command/Ctrl + R                               | Reload FreeTube                        |
 | Command/Ctrl + SHIFT + R                       | Force reload FreeTube (avoids caching) |
 | Command/Ctrl + SHIFT + I                       | Toggle developer tools                 |
@@ -62,7 +62,7 @@ The FreeTube client can also be controlled with shortcuts you might already be f
 | Command/Ctrl + M                               | Minimize window                        |
 | Command/Ctrl + N                               | Create a new window                    |
 | Command/Ctrl + ,                               | Navigate to Preferences                |
-| Command + Y (MacOS)/Ctrl + H (Windows & Linux) | Navigate to History                    |
+| Command + Y (macOS)/Ctrl + H (Windows & Linux) | Navigate to History                    |
 | Alt + Left Arrow                               | Go back one page                       |
 | Alt + Right Arrow                              | Go forward one page                    |
 
