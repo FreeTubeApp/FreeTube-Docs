@@ -33,8 +33,6 @@ aux_links:
     - "https://freetubeapp.io"
   "FreeTube on GitHub":
     - "https://github.com/FreeTubeApp/FreeTube"
-  "Donate":
-    - "https://liberapay.com/FreeTube"
 
 footer_content: "Distributed under the <a href=\"https://github.com/FreeTubeApp/FreeTube-Docs/blob/master/LICENSE\">MIT license.</a>"
 
