@@ -47,6 +47,7 @@ The Subscription, Trending, and Most Popular Pages have the following shortcuts:
 | R or F5 | Refresh video list |
 
 Pages with a secondary search bar have the following shortcuts:
+
 | Key     | Function           |
 | ------- | ------------------ |
 | Command/Ctrl + F | Focus on the secondary search bar |
