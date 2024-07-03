@@ -29,7 +29,7 @@ This is a limitation of the video player itself within FreeTube. The higher qual
 
 For more information, check out the [Video Formats](/usage/video-formats/#dash) page about DASH.
 
-## Videos Are Only Limited to 720p
+## Videos Are Only Limited to 360p
 
 Your video player is either set to use Legacy formats, or your video player is having issues with playing the DASH formats and reverting to legacy. If this is a continuous problem, please create an issue in the FreeTube repository and we can investigate this further.
 

@@ -19,7 +19,7 @@ A current limitation is that videos will max out at 1080p. This is not a limitat
 
 Legacy formats are more of a term coined specifically for FreeTube. YouTube provides a small number of video streams that are traditional MP4 files with the video and audio combined and do not take advantage of DASH. These videos are labeled as "Legacy" videos within FreeTube.
 
-The main limitation of Legacy formats is that a legacy video will never have a quality above 720p.
+The main limitation of Legacy formats is that a legacy video will never have a quality above 360p.
 
 One benefit of the Legacy formats is that they are easier to play compared to DASH. Legacy formats use less resources and less bandwidth which makes them preferred for low spec devices like a Raspberry Pi.
 
