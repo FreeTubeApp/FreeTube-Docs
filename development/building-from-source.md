@@ -11,7 +11,7 @@ This article assumes that your development environment is setup. For instruction
 
 By default, FreeTube is configured to build a large variety of binaries. There is a very high chance that at least one of these binaries are unable to be built on your system. In order for FreeTube to successfully build on your system, you will need to edit the build script to remove the problematic binaries before building.
 
-Open `_scripts/build.js` in your favorite text editor and edit [line 39](https://github.com/FreeTubeApp/FreeTube/blob/development/_scripts/build.js#L39). Remove the options that you will not be able to create on your system and save the file afterwards. Once done, you can follow the instructions as normal.
+Open `_scripts/build.js` in your favorite text editor and edit the line containing `Platform.LINUX.createTarget`. Remove the options that you will not be able to create on your system and save the file afterwards. Once done, you can follow the instructions as normal.
 
 ## Building for Your Native System
 
