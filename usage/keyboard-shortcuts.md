@@ -38,7 +38,7 @@ Shortcuts related to searching:
 | Key                                             | Function                |
 | ----------------------------------------------- | ----------------------- |
 | Alt + D or Command/Ctrl + L                     | Focus on the search bar |
-| SHIFT + Enter or SHIFT + Click on Search button | Search in a new window  |
+| Enter or SHIFT + Click on Search button | Search in a new window  |
 
 The Subscription, Trending, and Most Popular Pages have the following shortcuts:
 
