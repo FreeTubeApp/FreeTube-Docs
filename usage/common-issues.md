@@ -23,12 +23,6 @@ If you have more than 125 subscriptions, you can create a new [Profile](/usage/p
 
 For more information, check out the [Subscriptions](/usage/subscriptions) page.
 
-## Videos Are Only Limited to 1080p
-
-This is a limitation of the video player itself within FreeTube. The higher quality formats are typically in a WebM which the video player is unable to handle because the files are being combined with MP4 files. This is an upstream issue and cannot be fixed on our end.
-
-For more information, check out the [Video Formats](/usage/video-formats/#dash) page about DASH.
-
 ## Videos Are Only Limited to 360p
 
 Your video player is either set to use Legacy formats, or your video player is having issues with playing the DASH formats and reverting to legacy. If this is a continuous problem, please create an issue in the FreeTube repository and we can investigate this further.

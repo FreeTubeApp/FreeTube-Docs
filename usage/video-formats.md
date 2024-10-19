@@ -13,8 +13,6 @@ You can select your preferred format in settings. Alternatively, you can change 
 
 [DASH](https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP) is the default video format and is the one that YouTube uses. It is designed to allow quality levels to dynamically change along with syncing up the video with a separated audio file. A majority of files returned by YouTube have the video and audio separated in order to be used via DASH. Since YouTube is mostly designed around this, DASH is the suggested format for most users.
 
-A current limitation is that videos will max out at 1080p. This is not a limitation of DASH but rather a limitation of the video player FreeTube uses. Most videos from YouTube provide a combination of MP4 and WebM files. Almost all qualities higher than 1080p use WebM and the video player that we use doesn't fully support WebM. Because of this, most videos will max out at 1080p. Rarely you may find some videos that allow for higher qualities.
-
 ## Legacy
 
 Legacy formats are more of a term coined specifically for FreeTube. YouTube provides a small number of video streams that are traditional MP4 files with the video and audio combined and do not take advantage of DASH. These videos are labeled as "Legacy" videos within FreeTube.
