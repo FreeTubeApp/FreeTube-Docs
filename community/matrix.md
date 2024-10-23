@@ -30,4 +30,4 @@ Once you have an account, you can [join the chatroom here.](https://matrix.to/#/
 - Do not ask for anyone's personal information. This is a privacy focused community and we should respect each other's privacy.
 - Please act appropriately. We'd rather not write out a large list of do's and don'ts. You should know what that includes. If another user asks you to stop doing something, you should stop.
 - If you are ever unsure of something, feel free to PM one of the members of the team.
-- Do not ask for when something will be implemented.
+- Do not ask for when something will be implemented. We are a FLOSS and volunteer-led project, and as such, it would be a disservice to expect exacting timelines that we cannot guarantee.
