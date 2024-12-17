@@ -5,7 +5,7 @@ parent: Usage
 permalink: /usage/browser-extension/
 ---
 
-You can use the following extensions to open YouTube links directly in FreeTube:
+The following extensions open YouTube links directly in FreeTube:
 
 - LibRedirect
 - RedirectTube
