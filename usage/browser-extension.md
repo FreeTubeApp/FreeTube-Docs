@@ -5,12 +5,19 @@ parent: Usage
 permalink: /usage/browser-extension/
 ---
 
-FreeTube is supported by the [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) and [LibRedirect](https://github.com/libredirect/libredirect) extensions, which will allow you to open YouTube links into FreeTube. You must enable the option within the advanced settings of the extension for it to work.
+The following extensions open YouTube links directly in FreeTube:
 
-- Download Privacy Redirect for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/) or [Google Chrome](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb).
+- [LibRedirect](https://libredirect.github.io/)
+- [RedirectTube](https://github.com/MStankiewiczOfficial/RedirectTube)
 
-- Download LibRedirect for [Firefox](https://addons.mozilla.org/firefox/addon/libredirect/) or [Google Chrome](https://libredirect.github.io/download_chromium.html).
+LibRedirect automatically redirect YouTube links to FreeTube. To ensure proper functionality, select FreeTube as Frontend in the Services settings of the extension.
+
+RedirectTube, doesn’t automatically open YouTube links in FreeTube. Instead, it adds buttons to the toolbar and context menu, which you can click to open videos in FreeTube manually.
+
+- Download LibRedirect from [Mozilla Add-ons](https://addons.mozilla.org/firefox/addon/libredirect/) (for Firefox based-browsers) or [developer's website](https://libredirect.github.io/download_chromium.html) (for Chrome and Chromium-based browsers).
+
+- Download RedirectTube from [Mozilla Add-ons](https://addons.mozilla.org/firefox/addon/redirecttube/) (for Firefox based-browsers).
 
 If you have issues with the extension working with FreeTube, please create an issue in the [FreeTube Repository](https://github.com/FreeTubeApp/FreeTube) instead of the extension repository. Most if not all problems is a problem with FreeTube itself and not a problem with the extension.
 
-**This extension does not work on Linux portable builds!**
+**These extensions do not work on Linux portable builds!**
