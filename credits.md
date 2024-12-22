@@ -30,6 +30,7 @@ FreeTube uses the following modules / projects:
 | [@fortawesome/vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome)     | MIT        |
 | [@seald-io/nedb](https://github.com/seald/nedb)                                    | MIT        |
 | [autolinker](https://github.com/gregjacobs/Autolinker.js)                          | MIT        |
+| [bgutils-js](https://github.com/LuanRT/BgUtils)                                    | MIT        |
 | [electron-context-menu](https://github.com/sindresorhus/electron-context-menu)     | MIT        |
 | [lodash.debounce](https://github.com/lodash/lodash)                                | MIT        |
 | [marked](https://github.com/markedjs/marked)                                       | MIT        |
