@@ -28,7 +28,7 @@ The Local API is one method of obtaining data from YouTube. For another method o
 
 | Name                                                | License | Maintained By the FreeTube Team? |
 | --------------------------------------------------- | ------- | -------------------------------- |
-| [youtubei.js](https://github.com/LuanRT/YouTube.js) | MIT     | No                               |
+| [youtube.js](https://github.com/LuanRT/YouTube.js)  | MIT     | No                               |
 
 ## Fallback
 
