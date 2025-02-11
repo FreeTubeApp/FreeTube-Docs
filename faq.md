@@ -49,3 +49,13 @@ Despite this, it's still something we want to look into someday. If FreeTube get
 No it is not. Windows and Mac requires that an application is signed by a verified publisher for most applications. This gives the user a piece of mind that they downloaded the correct program and didn't install anything malicious. Any good virus protection software will notice if an application isn't signed and will immediately warn the user of such a file. FreeTube will most likely be scanned during first installation but your virus protection shouldn't find anything. FreeTube is not currently signed because the licenses to sign applications for Windows are expensive and we'd like to avoid putting a lot of money into the project. This may change in the future as progress is made but do not be alarmed by any notices from your virus protection.
 
 Those that are concerned with this are welcome to view the source code and build their own packages for installation.
+
+## MacOS "FreeTube" is damaged and can't be opened. You should move it to the Trash.
+
+No it is not. As mentioned in the previous section, FreeTube is not codesigned (please read that section for more details) and on ARM Macs Apple has chosen a lot more aggressive, inaccurate messaging.
+
+You can easily fix this by running the following command in the Terminal app. You will need to run the command again each time you update or reinstall FreeTube.
+
+```
+xattr -d com.apple.quarantine /Applications/FreeTube.app
+```
