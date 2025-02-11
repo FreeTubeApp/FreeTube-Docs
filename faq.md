@@ -42,8 +42,6 @@ We understand the frustration that some of you have. Electron has become overuse
 
 We believe that privacy should be accessible to as many people as possible, regardless of where they are at in the privacy spectrum. In order to accomplish this with FreeTube, this means that it needs to be cross platform. We work on FreeTube in our free time, and we are mostly the only people that work on this. For this project, Electron is the only realistic solution in order for a team existing of a few developers to cater to as many people as possible.
 
-Looking at the amount of people that download FreeTube, this proves to us that we've made the right choice. Windows users account for roughly 50% of all FreeTube downloads. We can easily say that a native solution would end up being Linux only and we would end up dropping support for half of our users.
-
 Despite this, it's still something we want to look into someday. If FreeTube gets to a point where we only have to do small amounts of maintenance and if we're looking for new projects then we can consider looking into this. Something like this would be extremely time consuming and is not being planned anytime soon.
 
 ## My Virus protection gave a warning when I tried to run FreeTube. Is FreeTube a malicious application?
