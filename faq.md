@@ -14,9 +14,9 @@ There are currently no plans to support services outside of YouTube. We are comm
 
 ## Do you plan on porting FreeTube to other platforms? (Android, iOS, etc.)
 
-We have zero plans to port FreeTube to platforms that are not already supported. "Porting" would be more of an entire rewrite with a separate code base where we have to develop each feature multiple times for each platform. For iOS, any effort towards an app would just get it removed from the App Store anyways, which would make it a waste of time. Android is also a waste of time because you should be using NewPipe if you'd like a similar experience. We don't see a reason to make an Android app when NewPipe is a very nice equivalent to what we would make anyways.
+We have zero plans to port FreeTube to platforms that are not already supported. "Porting" would be more of an entire rewrite with a separate code base where we have to develop each feature multiple times for each platform. For iOS, any effort towards an app would just get it removed from the App Store anyways, which would make it a waste of time.
 
-We _can_ consider support for the Pinephone however, since it is also a Linux device. This will be later in the future however.
+There is no official port of FreeTube to Android and there are no plans to provide an official port. There is however an _unofficial_ fork that ports FreeTube to Android: [FreeTubeAndroid](https://github.com/MarmadileManteater/FreeTubeAndroid).
 
 ## Can I import my YouTube subscriptions over to FreeTube?
 
