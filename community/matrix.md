@@ -13,7 +13,7 @@ In the same way as there are several different web browsers that can access the 
 
 The official application is Element, which runs on pretty much all computers, phones, and web browsers. You can download Element either [from its website](https://element.io/), [or on F-Droid](https://f-droid.org/en/packages/im.vector.app/), or possibly also `element-desktop` from your system's package manager.
 
-Once you have an account, you can [join the chatroom here.](https://matrix.to/#/#freetube:matrix.org?via=matrix.org&via=privacytools.io&via=tchncs.de)
+Once you have an account, you can [join the chatroom here.](https://matrix.to/#/#freetube:matrix.org)
 
 ## Notes
 
