@@ -14,7 +14,7 @@ FreeTube is made possible thanks to many different people and projects.
 - Linux / Windows Icon Design: [varlesh](https://github.com/varlesh) / [Papirus Development Team](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 - Mac Icon: [creepertron95](https://github.com/creepertron95)
 - Invidious / Invidious API: [omarroth](https://github.com/omarroth)
-- Local API: [Various Developers](/usage/local-api)
+- Local API: [LuanRT](https://github.com/LuanRT)
 - [Other Contributors](https://github.com/FreeTubeApp/FreeTube/graphs/contributors)
 
 ## Dependencies
