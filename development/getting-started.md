@@ -30,7 +30,7 @@ yarn install
 Run the application:
 
 ```
-npm run dev
+yarn run dev
 ```
 
 And you're done! After a couple of seconds, FreeTube will open up and you are ready to make changes to the project.
@@ -46,7 +46,7 @@ To keep your code up to par with the rest of the application, we enforce a linte
 In the root of your directory, run the following command:
 
 ```
-npm run lint
+yarn run lint
 ```
 
 This command will then display all of the errors that the linter found in your project. If nothing is displayed after you run the command, then no errors were found.
@@ -54,7 +54,7 @@ This command will then display all of the errors that the linter found in your p
 In some cases, the issues that the linter finds are simple enough that they may be able to be fixed automatically. If this happens, you can run the following command to fix them:
 
 ```
-npm run lint-fix
+yarn run lint-fix
 ```
 
 This command will also show any errors that the linter still finds and cannot fix.
