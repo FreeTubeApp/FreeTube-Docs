@@ -18,7 +18,7 @@ Open `_scripts/build.js` in your favorite text editor and edit the line containi
 Open up your terminal in the root of the project and run the following command:
 
 ```
-npm run build
+yarn run build
 ```
 
 Once the command has finished, a new `build/` folder will be created in the project. This folder will contain any and every binary that the command has created. It will only create binaries for the OS you are running (ex: Windows can only create Windows binaries).
@@ -28,7 +28,7 @@ Once the command has finished, a new `build/` folder will be created in the proj
 If you are running a 64 bit Linux OS, you will also be able to create ARM64 binaries. To do so, run the following command:
 
 ```
-npm run build:arm
+yarn run build:arm
 ```
 
 Binaries will be located in the same location as the other command.
