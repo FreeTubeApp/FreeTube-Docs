@@ -28,6 +28,9 @@ FreeTube will make a few requests to places outside of YouTube. All of these req
 - [https://github.com](https://github.com) - Used to check for updates and provide changelog notes, can be disabled in settings
 - [https://blog.freetubeapp.io](https://blog.freetubeapp.io) - Used to check for new blog posts, can be disabled in settings
 - Your set [Invidious Instance](/about/about-invidious) - Used to check for "Most Popular", can be hidden in settings. Only requested when the user navigates to the page. The request is done regardless of your API settings
+- [Sponsorblock](/usage/sponsorblock/) - Used to skip sponsor segments in YouTube videos, can be enabled in settings
+- [DeArrow](https://dearrow.ajay.app) - Used to provide better titles and thumbnails, can be enabled in settings
+- [https://ipwho.is](https://ipwho.is) - Used to test your proxy
 
 ## Tracking
 
