@@ -62,4 +62,4 @@ xattr -d com.apple.quarantine /Applications/FreeTube.app
 
 ## FreeTube trying to access my webcam and/or microphone
 
-FreeTube does not use your webcam or microphone for any features or functionality. If you're seeing a prompt requesting access, it is a false positive. The application itself does not interact with your camera or microphone. Additionally, even if there were an attempt to access them, FreeTube automatically blocks any such requests to protect your privacy.
+FreeTube does not use your webcam or microphone for any features or functionality. If you see a prompt claiming the application is requesting access, it's a false positive. The application itself does not interact with your camera or microphone. Additionally, even if there were an attempt to access them, FreeTube automatically blocks any such requests to protect your privacy.
