@@ -83,6 +83,6 @@ FreeTube is built using Electron and Vue.js, so knowing how these technologies w
  - [https://vuejs.org/v2/guide/routing.html](https://vuejs.org/v2/guide/routing.html)
  - [https://vuex.vuejs.org/](https://vuex.vuejs.org/)
 
- If you have any more questions about development, feel free to ask us in our [Matrix Channel](/community/matrix).
+ If you have any more questions about development, feel free to ask us in our [Matrix Room](/community/matrix).
 
  Once you've made your code changes, it's time to send a [pull request](/development/creating-a-pull-request).
