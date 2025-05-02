@@ -37,6 +37,7 @@ FreeTube does not use the official YouTube API. Instead, it parses the informati
 - Keyboard shortcuts
 - Option to show only family friendly content
 - Show/hide functionality or elements within the app using the distraction free settings
+- View channel posts
 
 ## Useful Links
 
