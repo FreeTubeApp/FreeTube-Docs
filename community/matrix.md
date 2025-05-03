@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Matrix Channel
+title: Matrix Room
 parent: Community
 permalink: /community/matrix/
 ---

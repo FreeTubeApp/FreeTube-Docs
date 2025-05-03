@@ -49,4 +49,4 @@ Stores your search history.
 
 ### subscription-cache.db
 
-Stores the information on uploads and community posts from your subscribed channels between app launches.
+Stores the information on uploads and posts from your subscribed channels between app launches.

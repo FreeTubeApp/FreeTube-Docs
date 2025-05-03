@@ -24,4 +24,4 @@ If you want to correct an already translated phrase, you can do that directly vi
 
 ## Get new languages added into the builds
 
-If your language has a sufficient enough amount of phrases translated (best case 100%), you can write us in the [Matrix](https://matrix.to/#/#freetube:matrix.org) channel or create an issue here on Github. From time to time we will take a look at Weblate and add the languages that have enough phrases translated.
+If your language has a sufficient enough amount of phrases translated (best case 100%), you can write us in the [Matrix](https://matrix.to/#/#freetube:matrix.org) room or create an issue here on Github. From time to time we will take a look at Weblate and add the languages that have enough phrases translated.
