@@ -33,7 +33,6 @@ FreeTube uses the following modules / projects:
 | [bgutils-js](https://github.com/LuanRT/BgUtils)                                    | MIT        |
 | [electron-context-menu](https://github.com/sindresorhus/electron-context-menu)     | MIT        |
 | [marked](https://github.com/markedjs/marked)                                       | MIT        |
-| [path-browserify](https://github.com/browserify/path-browserify)                   | MIT        |
 | [portal-vue](https://github.com/LinusBorg/portal-vue)                              | MIT        |
 | [process](https://github.com/defunctzombie/node-process)                           | MIT        |
 | [shaka-player](https://github.com/shaka-project/shaka-player)                      | Apache-2.0 |
