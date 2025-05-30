@@ -33,7 +33,7 @@ FreeTube features a variety of keyboard shortcuts that you can use while watchin
 | 0-9                        | Skip through video by percentage (Ex: 3 key to skip through 30% of a video)                                                                                                                |
 | Play or Pause              | Play / Pause video                                                                                                                                                                         |
 | Previous or Next           | Skips to the Previous / Next video in a playlist                                                                                                                                           |
-| , or .                     | While the video is paused, skip to the previous / next frame                                                                                                                               |
+| , or .                     | While the video is paused, skip to the previous / next frame.                                                                                                                              |
 
 Shortcuts related to searching:
 
