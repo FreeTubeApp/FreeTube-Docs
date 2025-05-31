@@ -24,6 +24,6 @@ Once you have an account, you can [join the chatroom here.](https://matrix.to/#/
 
 ## Rules
 
-- General rules for participating in the FreeTube project can be found on the [Community](/community) page.
+- General rules for participating in the FreeTube project can be found on the [Rules](/community/rules) page.
 - Do not ask for anyone's personal information. This is a privacy focused community and we should respect each other's privacy.
 - Please keep the discussion related to FreeTube. General privacy discussion is also okay, but if it starts to become a heated debate, consider continuing the debate in a different chatroom for the sake of the other users.
