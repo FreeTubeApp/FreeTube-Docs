@@ -13,7 +13,7 @@ There are a few things to follow when you submit a pull request to the FreeTube 
 - Your pull request **MUST** be configured to be merged into our `development` branch
 - Your pull request must not cause any merge conflicts. You are responsible for solving these before your PR is merged
 - Your pull request must pass our [linter rules](/development/getting-started/#linting)
-- Your code must follow [ES6 Standards](http://es6-features.org/) and follow the same structure as the rest of our code
+- Your code must follow [ES6 Standards](https://rse.github.io/es6-features/) and follow the same structure as the rest of our code
 - Your pull request should not introduce any proprietary or non-free software / services / modules
 
 Once your pull request meets the above conditions, feel free to create your pull request. When creating your pull request, you'll be presented with a template containing some questions. Please answer the questions as best as you can before submitting your pull request.
