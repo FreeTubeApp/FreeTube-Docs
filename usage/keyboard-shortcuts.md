@@ -34,6 +34,8 @@ FreeTube features a variety of keyboard shortcuts that you can use while watchin
 | Play or Pause              | Play / Pause video                                                                                                                                                                         |
 | Previous or Next           | Skips to the Previous / Next video in a playlist                                                                                                                                           |
 | , or .                     | While the video is paused, skip to the previous / next frame.                                                                                                                              |
+| Shift + P        | Skip to the previous video in a playlist                       |
+| Shift + N        | Skip to the next video in a playlist or next recommended video |
 
 Shortcuts related to searching:
 
