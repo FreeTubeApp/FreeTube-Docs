@@ -61,8 +61,6 @@ The FreeTube client can also be controlled with shortcuts you might already be f
 | Key                                                                 | Function                               |
 | ------------------------------------------------------------------- | -------------------------------------- |
 | SHIFT + ?                                                           | Show keyboard shortcuts                |
-| Command/Ctrl + R                                                    | Restart window                         |
-| Command/Ctrl + SHIFT + R                                            | Force restart window                   |
 | Command/Ctrl + SHIFT + I                                            | Toggle developer tools                 |
 | Command/Ctrl + 0                                                    | Reset zoom level/UI scale              |
 | Command/Ctrl + + or Command/Ctrl + =                                | Zoom in                                |
