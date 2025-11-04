@@ -77,10 +77,10 @@ You **DO NOT** need to add anything to any source code files.
 FreeTube is built using Electron and Vue.js, so knowing how these technologies work is beneficial to creating code. These links may be helpful to learning more about these.
 
  - [https://www.electronjs.org/docs](https://www.electronjs.org/docs)
- - [https://vuejs.org/v2/guide/](https://vuejs.org/v2/guide/)
- - [https://vuejs.org/v2/guide/components-registration.html](https://vuejs.org/v2/guide/components-registration.html)
- - [https://vuejs.org/v2/guide/components-props.html](https://vuejs.org/v2/guide/components-props.html)
- - [https://vuejs.org/v2/guide/routing.html](https://vuejs.org/v2/guide/routing.html)
+ - [https://vuejs.org/guide/introduction.html](https://vuejs.org/guide/introduction.html)
+ - [https://vuejs.org/guide/components/registration.html](https://vuejs.org/guide/components/registration.html)
+ - [https://vuejs.org/guide/components/props.html](https://vuejs.org/guide/components/props.html)
+ - [https://router.vuejs.org/guide/](https://router.vuejs.org/guide/)
  - [https://vuex.vuejs.org/](https://vuex.vuejs.org/)
 
  If you have any more questions about development, feel free to ask us in our [Matrix Room](/community/matrix).

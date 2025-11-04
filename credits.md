@@ -37,9 +37,9 @@ FreeTube uses the following modules / projects:
 | [process](https://github.com/defunctzombie/node-process)                           | MIT        |
 | [shaka-player](https://github.com/shaka-project/shaka-player)                      | Apache-2.0 |
 | [swiper](https://github.com/nolimits4web/swiper)                                   | MIT        |
-| [vue](https://github.com/vuejs/vue)                                                | MIT        |
-| [vue-i18n](https://github.com/kazupon/vue-i18n)                                    | MIT        |
+| [vue](https://github.com/vuejs/core)                                               | MIT        |
+| [vue-i18n](https://github.com/intlify/vue-i18n)                                    | MIT        |
 | [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility)         | MIT        |
-| [vue-router](https://github.com/vuejs/vue-router)                                  | MIT        |
+| [vue-router](https://github.com/vuejs/router)                                      | MIT        |
 | [vuex](https://github.com/vuejs/vuex)                                              | MIT        |
 | [youtubei.js](https://github.com/LuanRT/YouTube.js)                                | MIT        |
