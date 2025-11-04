@@ -16,8 +16,8 @@ FreeTube has the ability to import your history from a variety of services. Here
 5. Click on "Download data"
 6. Under "Create a New Export", make sure "YouTube and YouTube Music" is selected
 7. Click on "Multiple formats"
-8. Click on "OK"
-9. Change the History file format to "JSON"
+8. Change the History file format to "JSON"
+9. Click on "OK"
 10. Click on "All YouTube data included" and deselect everything except for "History"
 11. Click on "OK"
 12. Click "Next step"
