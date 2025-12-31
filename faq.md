@@ -24,7 +24,7 @@ Yes! You can head over to the [importing your YouTube subscriptions](/usage/impo
 
 ## Could You Please Implement X/Y/Z Feature?
 
-Probably. As long as it isn't to added new services or port to new platforms, we can consider adding a new feature (See above questions). Keep in mind that just because a feature is suggested doesn't mean it'll get worked on right away. We try to plan what we'll be working on well ahead of time to keep ourselves organized. If you'd like to see a certain feature prioritized, consider submitting a pull request.
+Probably. As long as it's not to add new services or port to new platforms, we can consider adding a new feature (See above questions). Keep in mind that just because a feature is suggested doesn't mean it'll get worked on right away. We try to plan what we'll be working on well ahead of time to keep ourselves organized. If you'd like to see a certain feature prioritized, consider submitting a pull request.
 
 ## I Found an Issue!
 
