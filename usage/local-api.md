@@ -26,10 +26,11 @@ The Local API is one method of obtaining data from YouTube. For another method o
 
 ## Modules Used in the Local API
 
-| Name                                                | License | Maintained By the FreeTube Team? |
-| --------------------------------------------------- | ------- | -------------------------------- |
-| [youtubei.js](https://github.com/LuanRT/YouTube.js) | MIT     | No                               |
-| [bgutils-js](https://github.com/LuanRT/BgUtils)     | MIT     | No                               |
+| Name                                                 | License | Maintained By the FreeTube Team? |
+| ---------------------------------------------------- | ------- | -------------------------------- |
+| [youtubei.js](https://github.com/LuanRT/YouTube.js)  | MIT     | No                               |
+| [bgutils-js](https://github.com/LuanRT/BgUtils)      | MIT     | No                               |
+| [googlevideo](https://github.com/LuanRT/googlevideo) | MIT     | No                               |
 
 ## Fallback
 
