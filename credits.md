@@ -21,25 +21,26 @@ FreeTube is made possible thanks to many different people and projects.
 
 FreeTube uses the following modules / projects:
 
-| Name                                                                               | License    |
-| ---------------------------------------------------------------------------------- | ---------- |
-| [@fortawesome/fontawesome-svg-core](https://github.com/FortAwesome/Font-Awesome)   | MIT        |
-| [@fortawesome/free-brands-svg-icons](https://github.com/FortAwesome/Font-Awesome)  | MIT        |
-| [@fortawesome/free-solid-svg-icons](https://github.com/FortAwesome/Font-Awesome)   | MIT        |
-| [@fortawesome/free-regular-svg-icons](https://github.com/FortAwesome/Font-Awesome) | MIT        |
-| [@fortawesome/vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome)     | MIT        |
-| [@seald-io/nedb](https://github.com/seald/nedb)                                    | MIT        |
-| [autolinker](https://github.com/gregjacobs/Autolinker.js)                          | MIT        |
-| [bgutils-js](https://github.com/LuanRT/BgUtils)                                    | MIT        |
-| [electron-context-menu](https://github.com/sindresorhus/electron-context-menu)     | MIT        |
-| [googlevideo](https://github.com/LuanRT/googlevideo)                               | MIT        |
-| [marked](https://github.com/markedjs/marked)                                       | MIT        |
-| [process](https://github.com/defunctzombie/node-process)                           | MIT        |
-| [shaka-player](https://github.com/shaka-project/shaka-player)                      | Apache-2.0 |
-| [swiper](https://github.com/nolimits4web/swiper)                                   | MIT        |
-| [vue](https://github.com/vuejs/core)                                               | MIT        |
-| [vue-i18n](https://github.com/intlify/vue-i18n)                                    | MIT        |
-| [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility)         | MIT        |
-| [vue-router](https://github.com/vuejs/router)                                      | MIT        |
-| [vuex](https://github.com/vuejs/vuex)                                              | MIT        |
-| [youtubei.js](https://github.com/LuanRT/YouTube.js)                                | MIT        |
+| Name                                                                               | License               |
+| ---------------------------------------------------------------------------------- | ----------------------|
+| [@fortawesome/fontawesome-svg-core](https://github.com/FortAwesome/Font-Awesome)   | MIT                   |
+| [@fortawesome/free-brands-svg-icons](https://github.com/FortAwesome/Font-Awesome)  | MIT                   |
+| [@fortawesome/free-solid-svg-icons](https://github.com/FortAwesome/Font-Awesome)   | MIT                   |
+| [@fortawesome/free-regular-svg-icons](https://github.com/FortAwesome/Font-Awesome) | MIT                   |
+| [@fortawesome/vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome)     | MIT                   |
+| [@seald-io/nedb](https://github.com/seald/nedb)                                    | MIT                   |
+| [autolinker](https://github.com/gregjacobs/Autolinker.js)                          | MIT                   |
+| [bgutils-js](https://github.com/LuanRT/BgUtils)                                    | MIT                   |
+| [dompurify](https://github.com/cure53/DOMPurify)                                   | MPL-2.0 or Apache-2.0 |
+| [electron-context-menu](https://github.com/sindresorhus/electron-context-menu)     | MIT                   |
+| [googlevideo](https://github.com/LuanRT/googlevideo)                               | MIT                   |
+| [marked](https://github.com/markedjs/marked)                                       | MIT                   |
+| [process](https://github.com/defunctzombie/node-process)                           | MIT                   |
+| [shaka-player](https://github.com/shaka-project/shaka-player)                      | Apache-2.0            |
+| [swiper](https://github.com/nolimits4web/swiper)                                   | MIT                   |
+| [vue](https://github.com/vuejs/core)                                               | MIT                   |
+| [vue-i18n](https://github.com/intlify/vue-i18n)                                    | MIT                   |
+| [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility)         | MIT                   |
+| [vue-router](https://github.com/vuejs/router)                                      | MIT                   |
+| [vuex](https://github.com/vuejs/vuex)                                              | MIT                   |
+| [youtubei.js](https://github.com/LuanRT/YouTube.js)                                | MIT                   |
