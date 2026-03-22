@@ -21,8 +21,6 @@ The main limitation of Legacy formats is that a legacy video will never have a q
 
 One benefit of the Legacy formats is that they are easier to play compared to DASH. Legacy formats use less resources and less bandwidth which makes them preferred for low spec devices like a Raspberry Pi.
 
-When [downloading a video](/usage/downloading-videos), you'll likely want to download a legacy video file since it already has the video and audio combined.
-
 ## Audio
 
 The Audio format takes advantage of the separated video and audio used for DASH and only streams the audio portion to the player. This format may be preferred if you are playing a video where there is little activity going on in a video such as when you are listening to music or a podcast.
