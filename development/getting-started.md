@@ -5,7 +5,7 @@ parent: Development
 permalink: /development/getting-started/
 ---
 
-Getting a development environment setup for FreeTube is very simple. You must have [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com) installed on your system in order to set up your environment.
+Getting a development environment setup for FreeTube is very simple. You must have [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) and [pnpm](https://pnpm.io) installed on your system in order to set up your environment.
 
 Once installed, open a Terminal in a folder that you'd like to store your repository. Then, clone the repository.
 
@@ -22,15 +22,15 @@ cd FreeTube
 Install Dependencies:
 
 ```
-yarn
+pnpm
 # or
-yarn install
+pnpm install
 ```
 
 Run the application:
 
 ```
-yarn run dev
+pnpm run dev
 ```
 
 And you're done! After a couple of seconds, FreeTube will open up and you are ready to make changes to the project.
@@ -46,7 +46,7 @@ To keep your code up to par with the rest of the application, we enforce a linte
 In the root of your directory, run the following command:
 
 ```
-yarn run lint
+pnpm run lint
 ```
 
 This command will then display all of the errors that the linter found in your project. If nothing is displayed after you run the command, then no errors were found.
@@ -54,7 +54,7 @@ This command will then display all of the errors that the linter found in your p
 In some cases, the issues that the linter finds are simple enough that they may be able to be fixed automatically. If this happens, you can run the following command to fix them:
 
 ```
-yarn run lint-fix
+pnpm run lint-fix
 ```
 
 This command will also show any errors that the linter still finds and cannot fix.
