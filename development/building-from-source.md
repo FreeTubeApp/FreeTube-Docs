@@ -28,7 +28,7 @@ Once the command has finished, a new `build/` folder will be created in the proj
 If you are running a 64 bit Linux OS, you will also be able to create ARM64 binaries. To do so, run the following command:
 
 ```
-yarn run build:arm
+yarn run build:arm64
 ```
 
 Binaries will be located in the same location as the other command.
