@@ -11,7 +11,7 @@ There are a few problems that you might encounter when using FreeTube, this incl
 
 A 429 Error means that FreeTube has sent too many requests to the YouTube / Invidious server and the server has blocked your IP address. This can commonly happen if you refresh your subscriptions fairly often. When blocked, videos will also not play.
 
-This error will go away after some time. The exact time frame is not known however. Switching to using [RSS Feeds](/usage/subscriptions/#methods-of-generating-your-feed) can greatly help, as RSS feeds do not count towards your daily request limit. FreeTube will automatically force RSS feeds if you have more than 125 subscriptions active to attempt to avoid this.
+This error will go away after some time. The exact time frame is not known however. Switching to using [RSS Feeds](/usage/subscriptions/#methods-of-generating-your-feed) can greatly help, as RSS feeds do not count towards your daily request limit.
 
 If you happen to use a VPN, switching the VPN server you're connecting to can also bypass this.
 
