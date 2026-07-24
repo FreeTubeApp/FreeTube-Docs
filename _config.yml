@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: FreeTube Docs
-email: freetubeapp@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Official Documents website for FreeTube, the Open Source YouTube client
   for Windows, Mac, and Linux built around privacy.
