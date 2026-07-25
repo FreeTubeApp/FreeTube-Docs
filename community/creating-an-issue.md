@@ -7,8 +7,6 @@ permalink: /community/creating-an-issue/
 
 You've noticed that there is a problem with FreeTube and you'd like to let the team know about it. We use GitHub for submitting issues and from there we can properly handle the issue you may have.
 
-**NOTE:** Please do not use email as a method of reporting a problem. We can't always respond to emails and using email prevents anyone else in the community from seeing it and possibly fixing it. Creating an issue on GitHub is the best place to report it.
-
 Before creating an issue, please do the following:
 
 - Update your app. Are you running the latest version of FreeTube?
