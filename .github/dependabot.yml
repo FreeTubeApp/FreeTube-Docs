@@ -14,3 +14,7 @@ updates:
     labels:
       - "PR: waiting for review"
       - "PR: dependencies"
+    groups:
+      "github/codeql-action":
+        patterns:
+          - "github/codeql-action/*"
