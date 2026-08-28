@@ -8,13 +8,33 @@ FreeTube is made possible thanks to many different people and projects.
 
 ## Notable People
 
-- Owner / Lead Developer: [PrestonN](https://github.com/PrestonN)
-- Co-Developer: [GilgusMaximus](https://github.com/GilgusMaximus), [Svallinn](https://github.com/Svallinn), [absidue](https://github.com/absidue), [ChunkyProgrammer](https://github.com/ChunkyProgrammer), [Hiers](https://github.com/Hiers), [Jason](https://github.com/jasonhenriquez), [PikachuEXE](https://github.com/PikachuEXE) and [John Rune](https://github.com/efb4f5ff-1298-471a-8973-3d47447115dc)
-- Logo Design: [jbeguna04](https://github.com/jbeguna04)
-- Linux / Windows Icon Design: [varlesh](https://github.com/varlesh) / [Papirus Development Team](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
+### Team members
+- Original developer / Owner: [PrestonN](https://github.com/PrestonN)
+- Owner: [John Rune](https://github.com/efb4f5ff-1298-471a-8973-3d47447115dc)
+- Co-Developer: [absidue](https://github.com/absidue)
+- Co-Developer: [PikachuEXE](https://github.com/PikachuEXE)
+- Co-Developer: [Cameron Radmore](https://github.com/radmorecameron)
+- Co-Developer: [Jason](https://github.com/kommunarr) 
+- Co-Developer: [Svallinn](https://github.com/Svallinn)
+- Co-Developer: [Shadorc](https://github.com/Shadorc)
+- Co-Developer: [Caetano](https://github.com/caetano-dev)
+- Co-Developer: [ozrendev](https://github.com/ozrendev)
+
+### Former team members
+- [Luca Hohmann](https://github.com/GilgusMaximus)
+- [Hiers](https://github.com/Hiers)
+- [peepo5](https://github.com/peepo5)
+
+### Logo & icon design
+- Logo Design: [Jibbie R. Eguna](https://github.com/jbeguna04)
+- Linux / Windows Icon Design: [Alexey Varfolomeev](https://github.com/varlesh) / [Papirus Development Team](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 - Mac Icon: [creepertron95](https://github.com/creepertron95)
+
+### API backends
+- Local API: [Luan](https://github.com/LuanRT)
 - Invidious / Invidious API: [Invidious Team](https://invidious.io/team)
-- Local API: [LuanRT](https://github.com/LuanRT)
+
+### Contributors
 - [Other Contributors](https://github.com/FreeTubeApp/FreeTube/graphs/contributors)
 
 ## Dependencies
