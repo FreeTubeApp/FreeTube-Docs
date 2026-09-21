@@ -9,6 +9,7 @@ on:
   schedule:
     - cron: '18 17 * * 4'
 
+cache-mode: write
 permissions: {}
 
 jobs:
