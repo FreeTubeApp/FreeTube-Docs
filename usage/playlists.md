@@ -14,4 +14,4 @@ You can export all your FreeTube playlists in a single file or just export one o
 
 ## Importing a playlist
 
-To import a Freetube playlist from a .db file go to `Settings->Data->Playlist->Import Playlist`
+To import a FreeTube playlist from a .db file go to `Settings->Data->Playlist->Import Playlist`
