@@ -5,8 +5,6 @@ parent: Usage
 permalink: /usage/playlists/
 ---
 
-**Note:** This page is under construction.
-
 ## Exporting a playlist
 
 You can export all your Freetube playlists in a single file or just export one of them.
